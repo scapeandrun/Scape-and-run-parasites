@@ -1,0 +1,220 @@
+Trying to load config
+Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 20, min day 0 and max day 20
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 20 and max day 30
+Loaded entity minecraft:spider as class net.minecraft.entity.monster.EntitySpider with weight 15, min day 20 and max day 30
+Loaded entity minecraft:creeper as class net.minecraft.entity.monster.EntityCreeper with weight 5, min day 30 and max day 30
+Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 20, min day 30 and max day 50
+Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 40 and max day 50
+Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 10, min day 40 and max day 50
+Loaded entity minecraft:witch as class net.minecraft.entity.monster.EntityWitch with weight 5, min day 40 and max day 50
+Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 40 and max day 0
+Loaded entity minecraft:vindication_illager as class net.minecraft.entity.monster.EntityVindicator with weight 5, min day 50 and max day 0
+Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 50 and max day 0
+Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 15, min day 60 and max day 0
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 3, min day 40 and max day 0
+loaded horde table hordes:mixed_mobs
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
+Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
+Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
+Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
+Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
+loaded horde table hordes:skeletons
+Loaded entity srparasites:rupter as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityMudo with weight 70, min day 0 and max day 40
+Loaded entity srparasites:sim_human as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfHuman with weight 40, min day 0 and max day 40
+Loaded entity srparasites:sim_villager as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfVillager with weight 40, min day 0 and max day 40
+Loaded entity srparasites:sim_cow as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfCow with weight 40, min day 0 and max day 40
+Loaded entity srparasites:sim_pig as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfPig with weight 40, min day 0 and max day 40
+Loaded entity srparasites:sim_sheep as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfSheep with weight 40, min day 0 and max day 40
+Loaded entity srparasites:sim_wolf as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfWolf with weight 20, min day 0 and max day 40
+Loaded entity srparasites:sim_horse as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfHorse with weight 20, min day 0 and max day 40
+Loaded entity srparasites:sim_bigspider as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityDorpa with weight 5, min day 0 and max day 40
+Loaded entity srparasites:sim_bear as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfBear with weight 5, min day 0 and max day 40
+Loaded entity srparasites:rupter as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityMudo with weight 70, min day 59 and max day 75
+Loaded entity srparasites:sim_wolf as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfWolf with weight 50, min day 59 and max day 75
+Loaded entity srparasites:sim_horse as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfHorse with weight 50, min day 59 and max day 75
+Loaded entity srparasites:sim_bigspider as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityDorpa with weight 50, min day 59 and max day 75
+Loaded entity srparasites:sim_bear as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfBear with weight 50, min day 59 and max day 75
+Loaded entity srparasites:sim_enderman as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfEnderman with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_longarms as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityShyco with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_summoner as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityCanra with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_bolster as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityBano with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_reeker as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityNogla with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_yelloweye as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityEmana with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_vermin as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityIki with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_tozoon as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityWymo with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_arachnida as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityRanrac with weight 20, min day 59 and max day 75
+Loaded entity srparasites:pri_manducater as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityHull with weight 20, min day 59 and max day 75
+Loaded entity srparasites:fer_human as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerHuman with weight 70, min day 89 and max day 105
+Loaded entity srparasites:fer_villager as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerVillager with weight 70, min day 89 and max day 105
+Loaded entity srparasites:fer_cow as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerCow with weight 70, min day 89 and max day 105
+Loaded entity srparasites:fer_pig as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerPig with weight 70, min day 89 and max day 105
+Loaded entity srparasites:fer_sheep as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerSheep with weight 70, min day 89 and max day 105
+Loaded entity srparasites:fer_horse as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerHorse with weight 70, min day 89 and max day 105
+Error adding entity srparasites:fer_bigspider null Entity hordes:default is not registered java.lang.Exception: Entity hordes:default is not registered
+net.smileycorp.hordes.hordeevent.HordeSpawnTable.deserialize(HordeSpawnTable.java:127)
+net.smileycorp.hordes.config.data.hordeevent.HordeTableLoader.loadTables(HordeTableLoader.java:47)
+net.smileycorp.hordes.common.CommonProxy.postInit(CommonProxy.java:67)
+net.smileycorp.hordes.common.Hordes.postInit(Hordes.java:33)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+com.google.common.eventbus.EventBus.post(EventBus.java:217)
+net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+com.google.common.eventbus.EventBus.post(EventBus.java:217)
+net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+java.lang.Thread.run(Thread.java:750)
+Loaded entity srparasites:fer_bear as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerBear with weight 70, min day 89 and max day 105
+Loaded entity srparasites:thrall as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityMes with weight 70, min day 89 and max day 105
+Loaded entity srparasites:fer_enderman as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerEnderman with weight 40, min day 89 and max day 105
+Loaded entity srparasites:carrier_light as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityGothol with weight 40, min day 89 and max day 105
+Loaded entity srparasites:carrier_flying as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityButhol with weight 40, min day 89 and max day 105
+Loaded entity srparasites:ada_yelloweye as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityEmanaAdapted with weight 40, min day 89 and max day 105
+Loaded entity srparasites:crux as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityCrux with weight 40, min day 89 and max day 105
+Loaded entity srparasites:hi_golem as class com.dhanantry.scapeandrunparasites.entity.monster.hijacked.EntityHiGolem with weight 40, min day 89 and max day 105
+Loaded entity srparasites:host as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityHost with weight 30, min day 89 and max day 105
+Loaded entity srparasites:mangler as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityNuuh with weight 20, min day 89 and max day 105
+Loaded entity srparasites:marauder as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityEsor with weight 5, min day 89 and max day 105
+Loaded entity srparasites:mangler as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityNuuh with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_human as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerHuman with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_villager as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerVillager with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_cow as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerCow with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_pig as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerPig with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_sheep as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerSheep with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_horse as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerHorse with weight 70, min day 119 and max day 135
+Error adding entity srparasites:fer_bigspider null Entity hordes:default is not registered java.lang.Exception: Entity hordes:default is not registered
+net.smileycorp.hordes.hordeevent.HordeSpawnTable.deserialize(HordeSpawnTable.java:127)
+net.smileycorp.hordes.config.data.hordeevent.HordeTableLoader.loadTables(HordeTableLoader.java:47)
+net.smileycorp.hordes.common.CommonProxy.postInit(CommonProxy.java:67)
+net.smileycorp.hordes.common.Hordes.postInit(Hordes.java:33)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+sun.reflect.GeneratedMethodAccessor15.invoke(Unknown Source)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+com.google.common.eventbus.EventBus.post(EventBus.java:217)
+net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+com.google.common.eventbus.EventBus.post(EventBus.java:217)
+net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+java.lang.Thread.run(Thread.java:750)
+Loaded entity srparasites:fer_bear as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerBear with weight 70, min day 119 and max day 135
+Loaded entity srparasites:thrall as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityMes with weight 70, min day 119 and max day 135
+Loaded entity srparasites:fer_enderman as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerEnderman with weight 50, min day 119 and max day 135
+Loaded entity srparasites:ada_yelloweye as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityEmanaAdapted with weight 50, min day 119 and max day 135
+Loaded entity srparasites:crux as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityCrux with weight 50, min day 119 and max day 135
+Loaded entity srparasites:hi_golem as class com.dhanantry.scapeandrunparasites.entity.monster.hijacked.EntityHiGolem with weight 50, min day 119 and max day 135
+Loaded entity srparasites:host as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityHost with weight 40, min day 119 and max day 135
+Loaded entity srparasites:ada_longarms as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityShycoAdapted with weight 20, min day 119 and max day 135
+Loaded entity srparasites:ada_summoner as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityCanraAdapted with weight 20, min day 119 and max day 135
+Loaded entity srparasites:ada_bolster as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityBanoAdapted with weight 20, min day 119 and max day 135
+Loaded entity srparasites:ada_reeker as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityNoglaAdapted with weight 20, min day 119 and max day 135
+Loaded entity srparasites:ada_arachnida as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityRanracAdapted with weight 20, min day 119 and max day 135
+Loaded entity srparasites:ada_manducater as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityHullAdapted with weight 20, min day 119 and max day 135
+Loaded entity srparasites:marauder as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityEsor with weight 10, min day 119 and max day 135
+Loaded entity srparasites:overseer as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityAlafha with weight 10, min day 119 and max day 135
+Loaded entity srparasites:bomber_light as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityOmboo with weight 10, min day 119 and max day 135
+Loaded entity srparasites:sim_dragone as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfDragonE with weight 5, min day 119 and max day 135
+Loaded entity srparasites:hostii as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityHostII with weight 5, min day 119 and max day 135
+Loaded entity srparasites:grunt as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityFlog with weight 70, min day 149 and max day 165
+Loaded entity srparasites:mangler as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityNuuh with weight 70, min day 149 and max day 165
+Loaded entity srparasites:fer_enderman as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerEnderman with weight 50, min day 149 and max day 165
+Loaded entity srparasites:ada_longarms as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityShycoAdapted with weight 40, min day 149 and max day 165
+Loaded entity srparasites:ada_summoner as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityCanraAdapted with weight 40, min day 149 and max day 165
+Loaded entity srparasites:ada_bolster as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityBanoAdapted with weight 40, min day 149 and max day 165
+Loaded entity srparasites:ada_reeker as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityNoglaAdapted with weight 40, min day 149 and max day 165
+Loaded entity srparasites:ada_manducater as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityHullAdapted with weight 40, min day 149 and max day 165
+Loaded entity srparasites:ada_yelloweye as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityEmanaAdapted with weight 40, min day 149 and max day 165
+Loaded entity srparasites:marauder as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityEsor with weight 40, min day 149 and max day 165
+Loaded entity srparasites:overseer as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityAlafha with weight 40, min day 149 and max day 165
+Loaded entity srparasites:bomber_light as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityOmboo with weight 40, min day 149 and max day 165
+Loaded entity srparasites:monarch as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityOrch with weight 40, min day 149 and max day 165
+Loaded entity srparasites:warden as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityGanro with weight 40, min day 149 and max day 165
+Loaded entity srparasites:vigilante as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityAnged with weight 40, min day 149 and max day 165
+Loaded entity srparasites:ada_arachnida as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityRanracAdapted with weight 30, min day 149 and max day 165
+Loaded entity srparasites:sim_dragone as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfDragonE with weight 30, min day 149 and max day 165
+Loaded entity srparasites:hostii as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityHostII with weight 30, min day 149 and max day 165
+Loaded entity srparasites:bomber_heavy as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityJinjo with weight 5, min day 149 and max day 165
+Loaded entity srparasites:pri_yelloweye as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityEmana with weight 70, min day 179 and max day 195
+Loaded entity srparasites:pri_vermin as class com.dhanantry.scapeandrunparasites.entity.monster.primitive.EntityIki with weight 70, min day 179 and max day 195
+Loaded entity srparasites:ada_yelloweye as class com.dhanantry.scapeandrunparasites.entity.monster.adapted.EntityEmanaAdapted with weight 60, min day 179 and max day 195
+Loaded entity srparasites:carrier_flying as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityButhol with weight 60, min day 179 and max day 195
+Loaded entity srparasites:overseer as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityAlafha with weight 50, min day 179 and max day 195
+Loaded entity srparasites:bomber_light as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityOmboo with weight 50, min day 179 and max day 195
+Loaded entity srparasites:sim_dragone as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfDragonE with weight 30, min day 179 and max day 195
+Loaded entity srparasites:wraith as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityElvia with weight 20, min day 179 and max day 195
+Loaded entity srparasites:bogle as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityLencia with weight 20, min day 179 and max day 195
+Loaded entity srparasites:bomber_heavy as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityJinjo with weight 20, min day 179 and max day 195
+Loaded entity srparasites:bogle as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityLencia with weight 20, min day 179 and max day 195
+Loaded entity srparasites:anc_dreadnaut as class com.dhanantry.scapeandrunparasites.entity.monster.ancient.EntityOronco with weight 5, min day 179 and max day 195
+Loaded entity srparasites:grunt as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityFlog with weight 70, min day 209 and max day 0
+Loaded entity srparasites:mangler as class com.dhanantry.scapeandrunparasites.entity.monster.inborn.EntityNuuh with weight 70, min day 209 and max day 0
+Loaded entity srparasites:fer_enderman as class com.dhanantry.scapeandrunparasites.entity.monster.feral.EntityFerEnderman with weight 50, min day 209 and max day 0
+Loaded entity srparasites:marauder as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityEsor with weight 40, min day 209 and max day 0
+Loaded entity srparasites:overseer as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityAlafha with weight 40, min day 209 and max day 0
+Loaded entity srparasites:bomber_light as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityOmboo with weight 40, min day 209 and max day 0
+Loaded entity srparasites:monarch as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityOrch with weight 40, min day 209 and max day 0
+Loaded entity srparasites:warden as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityGanro with weight 40, min day 209 and max day 0
+Loaded entity srparasites:vigilante as class com.dhanantry.scapeandrunparasites.entity.monster.pure.EntityAnged with weight 40, min day 209 and max day 0
+Loaded entity srparasites:sim_dragone as class com.dhanantry.scapeandrunparasites.entity.monster.infected.EntityInfDragonE with weight 40, min day 209 and max day 0
+Loaded entity srparasites:hostii as class com.dhanantry.scapeandrunparasites.entity.monster.crude.EntityHostII with weight 40, min day 209 and max day 0
+Loaded entity srparasites:bomber_heavy as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityJinjo with weight 20, min day 209 and max day 0
+Loaded entity srparasites:wraith as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityElvia with weight 20, min day 209 and max day 0
+Loaded entity srparasites:bogle as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityLencia with weight 20, min day 209 and max day 0
+Loaded entity srparasites:haunter as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityPheon with weight 20, min day 209 and max day 0
+Loaded entity srparasites:carrier_colony as class com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityVesta with weight 20, min day 209 and max day 0
+Loaded entity srparasites:anc_dreadnaut as class com.dhanantry.scapeandrunparasites.entity.monster.ancient.EntityOronco with weight 10, min day 209 and max day 0
+Loaded entity srparasites:anc_overlord as class com.dhanantry.scapeandrunparasites.entity.monster.ancient.EntityTerla with weight 10, min day 209 and max day 0
+loaded horde table hordes:default
+loaded horde script hordes:default

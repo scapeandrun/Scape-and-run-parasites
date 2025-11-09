@@ -1,0 +1,5 @@
+BigClockworkSite,-46,-11,84,129
+DesertBeacon,36,42,-137,-131
+DesertWatchtower,-5,5,-187,-177
+StoneLeafMound,421,428,465,474
+DinosaurSkeleton,397,443,36,45

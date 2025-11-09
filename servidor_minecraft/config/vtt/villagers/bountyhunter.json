@@ -1,0 +1,10 @@
+{
+    "profession": {
+        "name": "vtt:bountyhunter",
+        "texture": "vtt:textures/entity/villager/bountyhunter.png",
+        "zombieTexture": "vtt:textures/entity/zombie_villager/zombie_redstoner.png"
+    },
+    "careers": [
+        "bountyhunter"
+    ]
+}

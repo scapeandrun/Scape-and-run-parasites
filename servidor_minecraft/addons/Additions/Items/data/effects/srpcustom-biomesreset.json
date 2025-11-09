@@ -1,0 +1,24 @@
+{
+  "cause": {
+    "item": {
+      "item": "additions:srpcustom-beckon_orchid",
+      "damage": "any"
+    },
+    "type": "additions:item_right_click"
+  },
+  "effects": [
+    {
+      "command": "srpnodes clearworld",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "command": "/tellraw @a [\"\",{\"text\":\"The \"},{\"text\":\"Beckon\u0027s Orchid\",\"bold\":true,\"color\":\"dark_green\"},{\"text\":\", held by \"},{\"selector\":\"@p\"},{\"text\":\", is destroying the Node from the inside.\\n\"},{\"text\":\"Every Parasite Biome in the world has stopped spreading.\",\"bold\":true,\"color\":\"dark_green\"},{\"text\":\" \"}]",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "type": "additions:consume_item"
+    }
+  ]
+}

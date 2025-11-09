@@ -1,0 +1,9 @@
+{
+  "name": "§4Corrupted Certus Quartz Crystal",
+  "tooltip": [
+    "§bThe result of the contact between a Parasite and a Certus Quartz Crystal.",
+    "§8§o(Teaser for 1.0 Update)"
+  ],
+  "max_stack": 1,
+  "type": "additions:simple"
+}

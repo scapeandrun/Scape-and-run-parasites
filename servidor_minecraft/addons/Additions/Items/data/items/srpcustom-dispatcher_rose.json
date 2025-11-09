@@ -1,0 +1,10 @@
+{
+  "name": "§4Dispatcher\u0027s Rose",
+  "tooltip": [
+    "Dropped from a Dispatcher of Stage IV.",
+    "Or get by mining 1500 Compressed Hivestones.",
+    "§4Clears all the Colonies present in the current dimension."
+  ],
+  "max_stack": 1,
+  "type": "additions:simple"
+}

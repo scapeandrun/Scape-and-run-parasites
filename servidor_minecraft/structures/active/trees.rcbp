@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "biomes": "$THEMED_TREES",
+      "weight": 0.0
+    },
+    {
+      "biomes": "$SPOOKY | $DEAD",
+      "weight": 0.0
+    },
+    {
+      "biomes": ""
+    }
+  ],
+  "metadata": {
+    "title": "Only Trees",
+    "description": [
+      ""
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+[
+  {
+    "type": "condition",
+    "name": "easymobs",
+    "values": [
+      {
+        "factor": 1,
+        "value": "Zombie"
+      },
+      {
+        "factor": 1,
+        "value": "Skeleton"
+      },
+      {
+        "factor": 1,
+        "value": "Spider"
+      }
+    ]
+  },
+  {
+    "type": "condition",
+    "name": "hardmobs",
+    "values": [
+      {
+        "factor": 1,
+        "value": "Blaze"
+      },
+      {
+        "factor": 1,
+        "value": "Witch"
+      }
+    ]
+  },
+  {
+    "type": "condition",
+    "name": "chestloot",
+    "values": [
+      {
+        "factor": 10,
+        "value": "lt:ingotTable"
+      },
+      {
+        "factor": 10,
+        "value": "lt:immersiveTable"
+      },
+      {
+        "factor": 10,
+        "value": "lt:reinforcementTable"
+      },
+      {
+        "factor": 10,
+        "value": "lt:tntTable"
+      },
+      {
+        "factor": 5,
+        "value": "lt:immersiveTableH"
+      },
+      {
+        "factor": 5,
+        "value": "lt:gunTable"
+      }
+    ]
+  }
+]

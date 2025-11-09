@@ -1,0 +1,80 @@
+{
+  "recipe": {
+    "type": "forge:ore_shaped",
+    "result": {
+      "item": "additions:srpcustom-concentrated_parasitic_substance",
+      "count": 2
+    },
+    "key": {
+      "0": {
+        "stack_list": [
+          {
+            "item": "minecraft:red_flower",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "1": {
+        "stack_list": [
+          {
+            "item": "additions:srpcustom-infested_eye",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "2": {
+        "stack_list": [
+          {
+            "item": "srparasites:lurecomponent4",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "3": {
+        "stack_list": [
+          {
+            "item": "srparasites:ada_bolster_drop",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "4": {
+        "stack_list": [
+          {
+            "item": "srparasites:ada_arachnida_drop",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "5": {
+        "stack_list": [
+          {
+            "item": "srparasites:ada_devourer_drop",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      },
+      "6": {
+        "stack_list": [
+          {
+            "item": "srparasites:ada_reeker_drop",
+            "damage": "any"
+          }
+        ],
+        "type": "additions:ingredient_ore_nbt"
+      }
+    },
+    "pattern": [
+      "010",
+      "232",
+      "456"
+    ]
+  },
+  "type": "additions:crafting_shaped"
+}

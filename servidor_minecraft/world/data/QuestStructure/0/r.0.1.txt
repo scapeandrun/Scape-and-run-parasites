@@ -1,0 +1,10 @@
+DinosaurSkull,-61,-42,627,638
+StoneBoulder,-114,-105,656,665
+WoodPile,41,45,699,703
+StonePlantMound2,-116,-103,698,710
+StonePlantMound3,72,83,740,749
+StonePlantMound2,-35,-23,745,758
+ClayWaterMound1,97,108,752,762
+StonePlantMound3,-156,-147,705,716
+StonePlantMound4,129,136,768,775
+LargeCart,330,341,528,534

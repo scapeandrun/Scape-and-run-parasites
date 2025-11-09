@@ -1,0 +1,3 @@
+C:\Users\DLKareless\curseforge\minecraft\Instances\09 Maintenance\addons\Additions\Items\data\items\srpcustom-link.json
+- Expected 'shot_sound' to be a sound event, was unknown string 'mekanism:etc.beep'
+

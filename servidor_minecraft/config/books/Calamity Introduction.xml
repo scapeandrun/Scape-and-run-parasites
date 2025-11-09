@@ -1,0 +1,64 @@
+<book title="Calamity Introduction (0.9.3)" cover="gbook:covers/default" fontSize="0.5">
+<include ref="gbook:xml/standard.xml" />
+    <chapter>
+        <page>
+            <p space="0" align="center" scale="2" bold="true">Scape and Run Calamity</p>
+            <p space="5" align="center" scale="2">-------------</p>
+            <p align="center" scale="1.5" italics="true">by DLKareless</p>
+        </page>
+        <page>
+            <page_title>
+                <title>IMPORTANT!</title>
+            </page_title>
+            <p>This is a massive Modpack with a lot to discover, but you’ll gradually master everything as you play.</p>
+            <p bold="true" space="200">However, before you begin your journey, there are a few essential things you MUST READ.</p>
+            <p bold="true">DISCORD SERVER: <link href="https://discord.gg/AvjmahvtbK">Click!</link></p>
+            <p bold="true">PATREON PAGE: <link href="https://patreon.com/DarklightsLegacy">Click!</link></p>
+        </page>
+        <page>
+            <page_title>
+                <title>Hordes</title>
+            </page_title>
+            <p bold="true">Every 30 days, from 12:00 to 00:00, a Horde Event takes place.</p>
+            <p space="50">During this time, waves of Parasites will relentlessly come after you. The Hordes are challenging, and with each subsequent event, the difficulty intensifies. To survive, you'll need a well-fortified and stable base.</p>
+            <page_title>
+                <title>Bloodmoons</title>
+            </page_title>
+                <p bold="true">Every 15 days, a Bloodmoon Event occurs.</p>
+                <p>During this event, the spawn rate of regular mobs (excluding Parasites) increases significantly. Evolution Points will also rise due to the greater number of potential infestations. Additionally, sleeping is not possible during a Bloodmoon.</p>
+        </page>
+        <page>
+            <page_title>
+                <title>Controls</title>
+            </page_title>
+            <p>"There are numerous assigned keys, carefully configured to avoid conflicts. Be sure to check the 'Options\Controls' section to familiarize yourself with each key’s function.</p>
+            <p bold="true">Here are a few essential keys you should know:</p>
+                    <p color="#606060">	• N: Open Quests</p>
+                    <p color="#606060">	• M: Open World Map</p>
+                    <p color="#606060">	• C: Zoom</p>
+                    <p color="#606060">	• Ctrl + N: Manage Waypoints</p>
+                    <p color="#606060">	• Ctrl + M: New Waypoint</p>
+                    <p color="#606060">	• T: Chat</p>
+                    <p color="#606060">	• P: Open Baubles Inventory</p>
+                    <p color="#606060">	• Ctrl + P: Open Belt Inventory</p>
+                    <p color="#606060">	• B: Open Backpack</p>
+                    <p color="#606060">	• X: Ascend [using Wings / Ships]</p>
+                    <p color="#606060">	• Z: Descend [using Ships]</p>
+                    <p color="#606060">	• Ctrl + I: Invite Players to LAN using Essential Mod</p>
+        </page>
+        <page>
+            <page_title>
+                <title>Phase Progression</title>
+            </page_title>
+            <p bold="true">Each Phase unlocks new Structures / Dimensions.</p>
+            <p space="50">To progress in the game, exploration is essential. Each structure contains unique loot and mobs that contribute to your overall advancement.</p>
+            <page_title>
+                <title>Quest Progression</title>
+            </page_title>
+                <p bold="true">You have a total of 9 Quest Traits. They'll be unlocked as you progress forward. Press N to open.</p>
+                <p>After a Quest is complete, go to the Quest page and click on the Claim button from bottom left to get your reward.</p>
+                <p>The "M:" traits are very important. Complete them to unlock unique items / XP that will be crucial for your progress.</p>
+                <p>The "T:" traits are optional. Complete them to gain knowledge over complicated mods.</p>
+        </page>
+    </chapter>
+</book>

@@ -1,0 +1,25 @@
+{
+  "name": "§bInterstellar Network Link",
+  "tooltip": "§bThis item uses advanced technology to emit signals across the universe, creating communication pathways.",
+  "max_stack": 1,
+  "durability": 0,
+  "enchantability": 0,
+  "repair_stacks": {},
+  "shot_velocity": 10.0,
+  "scattering": 0.0,
+  "fires_vanilla_arrows": false,
+  "ammo_items": [
+    "additions:srpcustom-energyprojectile",
+    "additions:srpcustom-inf_s",
+    "additions:srpcustom-clm_s"
+  ],
+  "shot_sound": "minecraft:item.totem.use",
+  "shot_effects": [
+    {
+      "command": "say",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:gun"
+}

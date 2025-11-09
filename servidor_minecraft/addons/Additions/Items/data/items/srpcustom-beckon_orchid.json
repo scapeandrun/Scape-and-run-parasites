@@ -1,0 +1,9 @@
+{
+  "name": "§2Beckon\u0027s Orchid",
+  "tooltip": [
+    "Dropped from a Beckon of Stage IV.",
+    "§2Clears all the Parasite Biomes present in the current dimension."
+  ],
+  "max_stack": 1,
+  "type": "additions:simple"
+}

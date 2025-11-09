@@ -1,0 +1,13 @@
+{
+  "srpcustom-cure_infested": {
+    "sounds": [
+      {
+        "name": "minecraft:entity.zombie_villager.cure",
+        "type": "event",
+        "stream": true
+      }
+    ],
+    "replace": true,
+    "subtitle": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "cause": {
+    "item": {
+      "item": "additions:srpcustom-dispatcher_rose",
+      "damage": "any"
+    },
+    "type": "additions:item_right_click"
+  },
+  "effects": [
+    {
+      "command": "srpcolonies clearworld",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "command": "/tellraw @a [\"\",{\"text\":\"The \"},{\"text\":\"Dispatcher\u0027s Rose\",\"bold\":true,\"color\":\"dark_red\"},{\"text\":\", held by \"},{\"selector\":\"@p\"},{\"text\":\", is piercing the minds of every Architect and Worker.\\n\"},{\"text\":\"Every Colony in the world has stopped functioning.\",\"bold\":true,\"color\":\"dark_red\"},{\"text\":\" \"}]",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "type": "additions:consume_item"
+    }
+  ]
+}

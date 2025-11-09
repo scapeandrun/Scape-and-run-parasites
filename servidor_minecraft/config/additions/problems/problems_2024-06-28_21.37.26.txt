@@ -1,0 +1,3 @@
+C:\Users\DLKareless\curseforge\minecraft\Instances\09 Maintenance\addons\Additions\Items\data\loot_tables\additions\blocks\srpcustom-manyullynandesitee.json
+- Expected preset_block to be a block, was unknown string 'additions:srpcustom-manyullynandesitee'
+

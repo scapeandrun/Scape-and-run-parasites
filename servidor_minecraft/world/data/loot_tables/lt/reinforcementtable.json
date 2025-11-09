@@ -1,0 +1,262 @@
+{
+  "loottweaker:dump_info": {
+    "id": "lt:reinforcementtable"
+  },
+  "pools": [
+    {
+      "name": "reinforcementloot",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:obsidian"
+        },
+        {
+          "entryName": "loottweaker#17",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "quark:iron_ladder"
+        },
+        {
+          "entryName": "loottweaker#18",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwlights:reinforced_torch"
+        },
+        {
+          "entryName": "loottweaker#5",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "quark:obsidian_pressure_plate"
+        },
+        {
+          "entryName": "loottweaker#13",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwtrpdoors:metal_trapdoor"
+        },
+        {
+          "entryName": "loottweaker#4",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "extra_slabs:obsidian_stairs"
+        },
+        {
+          "entryName": "loottweaker#14",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_trapdoor"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "extra_slabs:obsidian_slab"
+        },
+        {
+          "entryName": "loottweaker#15",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwtrpdoors:metal_full_trapdoor"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": {
+                "min": 1.0,
+                "max": 3.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "diamondglass:diamond_sand"
+        },
+        {
+          "entryName": "loottweaker#16",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwdoors:metal_reinforced_door"
+        },
+        {
+          "entryName": "loottweaker#9",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwdoors:metal_door"
+        },
+        {
+          "entryName": "loottweaker#8",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:iron_door"
+        },
+        {
+          "entryName": "loottweaker#10",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwdoors:metal_warning_door"
+        },
+        {
+          "entryName": "loottweaker#7",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mysticalworld:pearl_pressure_plate"
+        },
+        {
+          "entryName": "loottweaker#11",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwdoors:metal_hospital_door"
+        },
+        {
+          "entryName": "loottweaker#6",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mysticalworld:pearl_pressure_plate"
+        },
+        {
+          "entryName": "loottweaker#12",
+          "weight": 30,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mcwdoors:metal_windowed_door"
+        }
+      ],
+      "rolls": {
+        "min": 2.0,
+        "max": 8.0
+      }
+    }
+  ]
+}

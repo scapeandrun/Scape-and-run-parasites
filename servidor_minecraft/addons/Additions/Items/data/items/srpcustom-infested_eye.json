@@ -1,0 +1,59 @@
+{
+  "name": "Infested Eye",
+  "tooltip": "The remains of an Assimilated Enderman. Has mysterious properties when eaten. Can be used as a crafting material.",
+  "hunger": 6,
+  "saturation": 0.5,
+  "always_edible": true,
+  "eaten_effects": [
+    {
+      "potion": {
+        "name": "minecraft:night_vision",
+        "duration": 100,
+        "amplifier": 1,
+        "ambient": false,
+        "show_particles": true
+      },
+      "type": "additions:potion"
+    },
+    {
+      "potion": {
+        "name": "minecraft:speed",
+        "duration": 100,
+        "amplifier": 2,
+        "ambient": false,
+        "show_particles": true
+      },
+      "chance": 0.7,
+      "type": "additions:potion"
+    },
+    {
+      "potion": {
+        "name": "minecraft:resistance",
+        "duration": 100,
+        "amplifier": 1,
+        "ambient": false,
+        "show_particles": true
+      },
+      "chance": 0.5,
+      "type": "additions:potion"
+    },
+    {
+      "potion": {
+        "name": "srparasites:coth",
+        "duration": 6000,
+        "amplifier": 1,
+        "ambient": false,
+        "show_particles": true
+      },
+      "type": "additions:potion"
+    },
+    {
+      "command": "/playsound minecraft:block.enchantment_table.use block @p",
+      "type": "additions:command"
+    },
+    {
+      "type": "additions:consume_item"
+    }
+  ],
+  "type": "additions:food"
+}

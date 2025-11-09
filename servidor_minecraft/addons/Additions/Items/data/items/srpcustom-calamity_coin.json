@@ -1,0 +1,8 @@
+{
+  "name": "§lCalamity Coin",
+  "tooltip": [
+    "§7This valuable item can only be obtained by winning Events",
+    "§7on our Minecraft Multiplayer Server."
+  ],
+  "type": "additions:simple"
+}

@@ -1,0 +1,13 @@
+{
+  "item_block": {
+    "name": "Reinforced Air Balloon",
+    "tooltip": "§aUsed to make Aircrafts. Can\u0027t be broken by Parasites (except Preeminents and Ancients).",
+    "type": "additions:block_simple"
+  },
+  "name": "Reinforced Air Balloon",
+  "material": "minecraft:wool",
+  "map_color": "minecraft:red",
+  "hardness": 50.0,
+  "resistance": 2000.0,
+  "type": "additions:simple"
+}

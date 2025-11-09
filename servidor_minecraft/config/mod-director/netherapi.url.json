@@ -1,0 +1,10 @@
+{
+    "url": "https://cdn.modrinth.com/data/65qOM4nb/versions/1m3gvzYh/Nether-API-v1.3.0-mc1.12.2.jar",
+    "fileName": "NetherAPI_1_3_0.jar",
+    "installationPolicy": {
+        "continueOnFailedDownload": false,
+        "selectedByDefault": true,
+        "name": "Nether API Mod",
+        "description": "Safe to download (from Modrinth), it's a Core Library for the End Expansion mod."
+     }
+}

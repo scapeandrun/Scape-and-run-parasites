@@ -1,0 +1,500 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "ParasiteEradicationOutpostLoot",
+  "items": [
+    {
+      "weight": 5.22887276019901E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:grenade_launcher",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 5.22887276019901E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:bazooka",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.0019995670299977064,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "cgm:missile",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0019995670299977064,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "cgm:stun_grenade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0019995670299977064,
+      "min": 1,
+      "max": 3,
+      "item": {
+        "id": "cgm:grenade",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:assault_rifle",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 25
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:chain_gun",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 100
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:shotgun",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 4
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:rifle",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 1
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:handgun",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 15
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "cgm:machine_pistol",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "AmmoCount": {
+              "nbtType": "int",
+              "nbt": 20
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.007257797755300999,
+      "min": 1,
+      "max": 20,
+      "item": {
+        "id": "cgm:shell",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.007257797755300999,
+      "min": 1,
+      "max": 20,
+      "item": {
+        "id": "cgm:advanced_ammo",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.007257797755300999,
+      "min": 1,
+      "max": 20,
+      "item": {
+        "id": "cgm:basic_ammo",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "boptools:helmet_ruby",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "boptools:chestplate_ruby",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "boptools:boots_ruby",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "boptools:leggings_ruby",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 2.268061798531562E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "davincisvessels:marker",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 7.574109476990998E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "davincisvessels:engine",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:stick",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.0639861449599266,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.013752810657024384,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "additions:srpcustom-pest_gold",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.013752810657024384,
+      "min": 1,
+      "max": 4,
+      "item": {
+        "id": "additions:srpcustom-pest_iron",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "additions:srpcustom-pest_coal",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.002661055652424693,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "additions:srpcustom-pest_diamond",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.002661055652424693,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "additions:srpcustom-pest_emerald",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "additions:srpcustom-pest_redstone",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.024237150326371193,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "additions:srpcustom-pest_lplz",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "immersiveengineering:revolver",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "immersiveengineering:railgun",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "energy": {
+              "nbtType": "int",
+              "nbt": 1600
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.007257797755300999,
+      "min": 1,
+      "max": 20,
+      "item": {
+        "id": "immersiveengineering:bullet",
+        "damage": 2,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "bullet": {
+              "nbtType": "string",
+              "nbt": "casull"
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 1,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mekanism:flamethrower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "immersiveengineering:chemthrower",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 3.504269116092473E-4,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "mekanism:electricbow",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:enchanted_book",
+        "damage": 0,
+        "count": 1,
+        "tag": {
+          "nbtType": "compound",
+          "nbt": {
+            "StoredEnchantments": {
+              "nbtType": "list",
+              "nbt": [
+                {
+                  "nbtType": "compound",
+                  "nbt": {
+                    "id": {
+                      "nbtType": "short",
+                      "nbt": 122
+                    },
+                    "lvl": {
+                      "nbtType": "short",
+                      "nbt": 1
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "weight": 0.004506520461291075,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "additions:srpcustom-inf_s",
+        "damage": 0,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": "mod:srparasites \u0026 mod:mekanism  \u0026 mod:mekanismgenerators \u0026 mod:mekanismtools \u0026 mod:nocubessrparmory \u0026 mod:cgm \u0026 mod:ironchest \u0026 mod:mcwtrpdoors \u0026 mod:netherex \u0026 mod:additions \u0026 mod:mcwfurnitures \u0026 mod:mcwdoors \u0026 mod:mysticalworld \u0026 mod:quark \u0026 mod:futuremc \u0026 mod:mcwdoors \u0026 mod:improvableskills \u0026 mod:questbook \u0026 mod:biomesoplenty \u0026 mod:conarm \u0026 mod:nocubessrpnests \u0026 mod:nocubessrpsurvival \u0026 mod:tcomplement \u0026 mod:forge \u0026 mod:mcwdoors \u0026 mod:diamondglass \u0026 mod:rbm2 \u0026 mod:extra_slabs \u0026 mod:boptools \u0026 mod:davincisvessels \u0026 mod:travelersbackpack"
+}

@@ -1,0 +1,537 @@
+{
+  "loottweaker:dump_info": {
+    "id": "lt:immersivetableh"
+  },
+  "pools": [
+    {
+      "name": "immersivelooth",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"flare\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#28",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "tag": "{blueprint:\"molds\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:blueprint"
+        },
+        {
+          "entryName": "loottweaker#29",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "tag": "{blueprint:\"components\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:blueprint"
+        },
+        {
+          "entryName": "loottweaker#24",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 9.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#25",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "tag": "{blueprint:\"electrode\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:blueprint"
+        },
+        {
+          "entryName": "loottweaker#26",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "tag": "{blueprint:\"specialBullet\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:blueprint"
+        },
+        {
+          "entryName": "loottweaker#27",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "tag": "{blueprint:\"bullet\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:blueprint"
+        },
+        {
+          "entryName": "loottweaker#20",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 13.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#21",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 12.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#22",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 11.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#23",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 10.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#17",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#18",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 1.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#19",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#5",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"he\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#13",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 6.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#4",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"silver\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#14",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 5.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"dragonsbreath\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#15",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 4.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"potion\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#16",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 3.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#9",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 13.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#8",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"casull\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#10",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 8.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#7",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"armor_piercing\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#11",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 8.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        },
+        {
+          "entryName": "loottweaker#6",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 2.0,
+              "function": "minecraft:set_data"
+            },
+            {
+              "tag": "{bullet:\"buckshot\"}",
+              "function": "minecraft:set_nbt"
+            }
+          ],
+          "name": "immersiveengineering:bullet"
+        },
+        {
+          "entryName": "loottweaker#12",
+          "weight": 50,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "data": 7.0,
+              "function": "minecraft:set_data"
+            }
+          ],
+          "name": "immersiveengineering:toolupgrade"
+        }
+      ],
+      "rolls": {
+        "min": 2.0,
+        "max": 8.0
+      }
+    }
+  ]
+}

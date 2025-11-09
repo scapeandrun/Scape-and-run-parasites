@@ -1,0 +1,11 @@
+{
+  "input": {
+    "item": "additions:srpcustom-concentrated_parasitic_substance",
+    "damage": "any"
+  },
+  "output": {
+    "item": "additions:srpcustom-parasitic_essence"
+  },
+  "xp": 1.0,
+  "type": "additions:smelting"
+}

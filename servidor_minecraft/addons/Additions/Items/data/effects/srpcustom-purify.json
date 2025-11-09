@@ -1,0 +1,32 @@
+{
+  "cause": {
+    "item": {
+      "item": "additions:srpcustom-purification_antidote",
+      "damage": "any"
+    },
+    "type": "additions:item_right_click_entity"
+  },
+  "effects": [
+    {
+      "type": "additions:consume_item"
+    },
+    {
+      "command": "/effect @s srparasites:coth 0",
+      "type": "additions:command"
+    },
+    {
+      "potion": {
+        "name": "srparasites:repel",
+        "duration": 720000,
+        "amplifier": 1,
+        "ambient": false,
+        "show_particles": true
+      },
+      "type": "additions:potion"
+    },
+    {
+      "command": "/playsound additions:srpcustom-cure_infested voice @p",
+      "type": "additions:command"
+    }
+  ]
+}

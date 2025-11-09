@@ -1,0 +1,128 @@
+mod name - enchantment name - enchantment registry name
+CoFH Core - Leech - cofhcore:leech
+CoFH Core - Smelting - cofhcore:smelting
+CoFH Core - Smashing - cofhcore:smashing
+CoFH Core - Holding - cofhcore:holding
+CoFH Core - Soulbound - cofhcore:soulbound
+NoCube SRP Tweaks - Recalling - nocubesrptweaks:recalling
+Rin's So Many Enchantments? - Purification - somanyenchantments:purification
+Rin's So Many Enchantments? - Splitshot - somanyenchantments:splitshot
+Rin's So Many Enchantments? - Rune: Magical Blessing - somanyenchantments:rune_magicalblessing
+Rin's So Many Enchantments? - Advanced Projectile Protection - somanyenchantments:advancedprojectileprotection
+Rin's So Many Enchantments? - Advanced Knockback - somanyenchantments:advancedknockback
+Rin's So Many Enchantments? - Lifesteal - somanyenchantments:lifesteal
+Rin's So Many Enchantments? - Advanced Thorns - somanyenchantments:advancedthorns
+Rin's So Many Enchantments? - Levitator - somanyenchantments:levitator
+Rin's So Many Enchantments? - Supreme Smite - somanyenchantments:supremesmite
+Rin's So Many Enchantments? - Moisturized - somanyenchantments:welltilled
+Rin's So Many Enchantments? - Envenomed - somanyenchantments:envenomed
+Rin's So Many Enchantments? - Inner Berserk - somanyenchantments:innerberserk
+Rin's So Many Enchantments? - Underwater Strider - somanyenchantments:underwaterstrider
+Rin's So Many Enchantments? - Lunar's Blessing - somanyenchantments:moonlight
+Rin's So Many Enchantments? - Rusted - somanyenchantments:rusted
+Rin's So Many Enchantments? - Advanced Power - somanyenchantments:advancedpower
+Rin's So Many Enchantments? - Flinging - somanyenchantments:flinging
+Rin's So Many Enchantments? - Advanced Protection - somanyenchantments:advancedprotection
+Rin's So Many Enchantments? - Instability - somanyenchantments:instability
+Rin's So Many Enchantments? - Brutality - somanyenchantments:brutality
+Rin's So Many Enchantments? - Parry - somanyenchantments:parry
+Rin's So Many Enchantments? - Blessed Edge - somanyenchantments:blessededge
+Rin's So Many Enchantments? - Fiery Edge - somanyenchantments:fieryedge
+Rin's So Many Enchantments? - Advanced Fire Aspect - somanyenchantments:afa
+Rin's So Many Enchantments? - Magma Walker - somanyenchantments:magmawalker
+Rin's So Many Enchantments? - Advanced Punch - somanyenchantments:advancedpunch
+Rin's So Many Enchantments? - Rune: Revival - somanyenchantments:rune_revival
+Rin's So Many Enchantments? - Reviled Blade - somanyenchantments:reviledblade
+Rin's So Many Enchantments? - Rain's Bestowment - somanyenchantments:raining
+Rin's So Many Enchantments? - Hors De Combat - somanyenchantments:hors_de_combat
+Rin's So Many Enchantments? - Quarrying - somanyenchantments:quarrying
+Rin's So Many Enchantments? - Unsheathing - somanyenchantments:unsheathing
+Rin's So Many Enchantments? - Water Aspect - somanyenchantments:wateraspect
+Rin's So Many Enchantments? - Supreme Bane of Arthropods - somanyenchantments:supremebaneofarthropods
+Rin's So Many Enchantments? - Supreme Flame - somanyenchantments:sfl
+Rin's So Many Enchantments? - Dark Shadows - somanyenchantments:darkshadows
+Rin's So Many Enchantments? - Natural Blocking - somanyenchantments:naturalblocking
+Rin's So Many Enchantments? - Counter Attack - somanyenchantments:counterattack
+Rin's So Many Enchantments? - Meltdown - somanyenchantments:meltdown
+Rin's So Many Enchantments? - Light Weight - somanyenchantments:lightweight
+Rin's So Many Enchantments? - Thunderstorm's Bestowment - somanyenchantments:thunderstorm
+Rin's So Many Enchantments? - Advanced Mending - somanyenchantments:advancedmending
+Rin's So Many Enchantments? - Advanced Looting - somanyenchantments:advancedlooting
+Rin's So Many Enchantments? - Empowered Defence - somanyenchantments:empowereddefence
+Rin's So Many Enchantments? - Disarmament - somanyenchantments:disarmament
+Rin's So Many Enchantments? - Burning Shield - somanyenchantments:fieryshield
+Rin's So Many Enchantments? - Evasion - somanyenchantments:evasion
+Rin's So Many Enchantments? - Supreme Fire Aspect - somanyenchantments:sfa
+Rin's So Many Enchantments? - Burning Thorns - somanyenchantments:burningthorns
+Rin's So Many Enchantments? - Advanced Feather Falling - somanyenchantments:advancedfeatherfalling
+Rin's So Many Enchantments? - Physical Protection - somanyenchantments:physicalprotection
+Rin's So Many Enchantments? - Supreme Sharpness - somanyenchantments:supremesharpness
+Rin's So Many Enchantments? - Viper - somanyenchantments:viper
+Rin's So Many Enchantments? - Adept - somanyenchantments:adept
+Rin's So Many Enchantments? - Magic Protection - somanyenchantments:magicprotection
+Rin's So Many Enchantments? - Advanced Smite - somanyenchantments:advancedsmite
+Rin's So Many Enchantments? - Freezing - somanyenchantments:freezing
+Rin's So Many Enchantments? - Advanced Bane of Arthropods - somanyenchantments:advancedbaneofarthropods
+Rin's So Many Enchantments? - Arc Slash - somanyenchantments:swiper
+Rin's So Many Enchantments? - Advanced Efficiency - somanyenchantments:advancedefficency
+Rin's So Many Enchantments? - Advanced Blast Protection - somanyenchantments:advancedblastprotection
+Rin's So Many Enchantments? - Sol's Blessing - somanyenchantments:sunshine
+Rin's So Many Enchantments? - Upgraded Potentials - somanyenchantments:upgrade
+Rin's So Many Enchantments? - Clearskies' Favor - somanyenchantments:clearsky
+Rin's So Many Enchantments? - Ancient Sword Mastery - somanyenchantments:swordmastery
+Rin's So Many Enchantments? - Critical Strike - somanyenchantments:criticalstrike
+Rin's So Many Enchantments? - Dragging - somanyenchantments:pulling
+Rin's So Many Enchantments? - Purging Blade - somanyenchantments:purgingblade
+Rin's So Many Enchantments? - Advanced Flame - somanyenchantments:afl
+Rin's So Many Enchantments? - Advanced Sharpness - somanyenchantments:advancedsharpness
+Rin's So Many Enchantments? - Pushing - somanyenchantments:pushing
+Rin's So Many Enchantments? - Advanced Fire Protection - somanyenchantments:advancedfireprotection
+SRP: Hermits' Arsenal - Lucky - hermitsarsenal:lucky
+Spartan Shields - Spikes - spartanshields:ssenchspikes
+Spartan Weaponry - Incendiary - spartanweaponry:incendiary
+Spartan Weaponry - Razors Edge - spartanweaponry:razors_edge
+Spartan Weaponry - Rapid Load - spartanweaponry:rapid_load
+Spartan Weaponry - Propulsion - spartanweaponry:propulsion
+Spartan Weaponry - Sharpshooter - spartanweaponry:sharpshooter
+Spartan Weaponry - Spreadshot - spartanweaponry:spreadshot
+Spartan Weaponry - Supercharge - spartanweaponry:supercharge
+Spartan Weaponry - Lucky Throw - spartanweaponry:lucky_throw
+Spartan Weaponry - Expanse - spartanweaponry:expanse
+Spartan Weaponry - Return - spartanweaponry:return
+Spartan Weaponry - Hydrodynamic - spartanweaponry:hydrodynamic
+Unique Enchantments - Spartan Weapon - uniquee:spartanweapon
+Unique Enchantments - Perpetual Strike - uniquee:perpetualstrike
+Unique Enchantments - Phoenix's Blessing - uniquee:phoenixs_blessing
+Unique Enchantments - Momentum - uniquee:momentum
+Unique Enchantments - Pestilence's Odium - uniquee:pestilences_odium
+Unique Enchantments - Nature's Grace - uniquee:naturesgrace
+Unique Enchantments - Bone Crusher - uniquee:bone_crusher
+Unique Enchantments - Berserker - uniquee:berserk
+Unique Enchantments - Ameliorated Bane of Arthropod - uniquee:arthropods
+Unique Enchantments - Swift Blade - uniquee:swiftblade
+Unique Enchantments - Ender's Markmen - uniquee:endermarksmen
+Unique Enchantments - Range - uniquee:ranged
+Unique Enchantments - Sage's Blessing - uniquee:sages_blessing
+Unique Enchantments - Ender Eyes - uniquee:ender_eyes
+Unique Enchantments - Climate Tranquility - uniquee:climate_tranquility
+Unique Enchantments - Focus Impact - uniquee:focus_impact
+Unique Enchantments - Midas Blessing - uniquee:midas_blessing
+Unique Enchantments - Death's Odium - uniquee:deaths_odium
+Unique Enchantments - Grimoire - uniquee:grimoire
+Unique Enchantments - Ender Librarian - uniquee:ender_librarian
+Unique Enchantments - Fast Food - uniquee:fastfood
+Unique Enchantments - Warrior's Grace - uniquee:warriorsgrace
+Unique Enchantments - Ameliorated Sharpness - uniquee:all
+Unique Enchantments - Ender Mending - uniquee:ender_mending
+Unique Enchantments - Smart Ass - uniquee:smart_ass
+Unique Enchantments - Swift - uniquee:swift
+Unique Enchantments - Ares Blessing - uniquee:aresblessing
+Unique Enchantments - Vitae - uniquee:vitae
+Unique Enchantments - Alchemist's Grace - uniquee:alchemistsgrace
+Unique Enchantments - Cloud Walker - uniquee:cloudwalker
+Unique Enchantments - Ecological - uniquee:ecological
+Unique Enchantments - Ifrit's Grace - uniquee:ifrits_grace
+Unique Enchantments - Icarus Aegis - uniquee:icarus_aegis
+Unique Enchantments - Endest Reap - uniquee:endest_reap
+Unique Enchantments - Treasurer's Eyes - uniquee:treasurers_eyes
+Unique Enchantments - Ameliorated Smite - uniquee:undead

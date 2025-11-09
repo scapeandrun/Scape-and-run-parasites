@@ -1,0 +1,9 @@
+{
+  "volume": 50,
+  "repeat": "NO",
+  "shuffle": true,
+  "showIngameOverlay": true,
+  "showIngameMenueOverlay": true,
+  "ingameOverlayPosition": "DOWN_LEFT",
+  "keyWorkInGui": true
+}

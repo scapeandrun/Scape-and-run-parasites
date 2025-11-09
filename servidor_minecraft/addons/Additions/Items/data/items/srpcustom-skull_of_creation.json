@@ -1,0 +1,58 @@
+{
+  "name": "§bSkull of Creation",
+  "tooltip": [
+    "§7A blend of every Minecraft\u0027s mob soul.",
+    "§aConsume it to get the Soul Reaper!"
+  ],
+  "hunger": 0,
+  "saturation": 0.0,
+  "always_edible": true,
+  "eaten_effects": [
+    {
+      "command": "bq_admin complete 254 @p",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "command": "bq_admin complete 258 @p",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "potion": {
+        "name": "minecraft:levitation",
+        "duration": 30,
+        "amplifier": 0,
+        "ambient": false,
+        "show_particles": true
+      },
+      "type": "additions:potion"
+    },
+    {
+      "potion": {
+        "name": "minecraft:glowing",
+        "duration": 30,
+        "amplifier": 0,
+        "ambient": false,
+        "show_particles": true
+      },
+      "type": "additions:potion"
+    },
+    {
+      "command": "/tellraw @p [\"\",{\"text\":\"From the potent cosmic energies that enveloped you, a \"},{\"text\":\"Soul Reaper\",\"bold\":true,\"color\":\"aqua\"},{\"text\":\" has been forged. Use the weapon to claim the souls of your enemies!\"}]",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "command": "/playsound minecraft:ui.toast.challenge_complete voice @p",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    },
+    {
+      "command": "give @p spawnercraft:mob_rod",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:food"
+}

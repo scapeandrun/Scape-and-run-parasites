@@ -1,0 +1,13 @@
+{
+  "item_block": {
+    "name": "Yelloweye Lantern",
+    "type": "additions:block_simple"
+  },
+  "name": "Yelloweye Lantern",
+  "material": "minecraft:stone",
+  "hardness": 11.0,
+  "resistance": 5.0,
+  "harvest_tool": "pickaxe",
+  "light_level": 13,
+  "type": "additions:simple"
+}

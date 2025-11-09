@@ -1,0 +1,21 @@
+{
+  "name": "Infernian Signal",
+  "tooltip": [
+    "§6Establishes the connection with the Infernian Planet.",
+    "Projectile for the Interstellar Network Link.",
+    "Can be found inside the Eradication Outpost.",
+    "§6Must be shot on the GROUND to work."
+  ],
+  "gravity": 10000.0,
+  "works_in_water": true,
+  "renders_3d": false,
+  "pierces_entities": true,
+  "hit_effects": [
+    {
+      "command": "gamestage silentadd @p Infernian",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:projectile"
+}

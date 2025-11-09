@@ -1,0 +1,12 @@
+{
+  "id": "srpcustom",
+  "name": "Items",
+  "author": "DLKareless",
+  "logo_item": "minecraft:air",
+  "required_mods": [
+    "nocubessrparmory",
+    "nocubessrpnests",
+    "nocubessrpsurvival",
+    "srparasites"
+  ]
+}

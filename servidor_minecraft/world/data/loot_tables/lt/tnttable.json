@@ -1,0 +1,94 @@
+{
+  "loottweaker:dump_info": {
+    "id": "lt:tnttable"
+  },
+  "pools": [
+    {
+      "name": "tntloot",
+      "entries": [
+        {
+          "entryName": "loottweaker#1",
+          "weight": 90,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "minecraft:tnt"
+        },
+        {
+          "entryName": "loottweaker#5",
+          "weight": 20,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xplosives:packed_tnt"
+        },
+        {
+          "entryName": "loottweaker#4",
+          "weight": 40,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xplosives:detonator"
+        },
+        {
+          "entryName": "loottweaker#3",
+          "weight": 60,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xplosives:dynamite"
+        },
+        {
+          "entryName": "loottweaker#2",
+          "weight": 70,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "mekanism:obsidiantnt"
+        },
+        {
+          "entryName": "loottweaker#6",
+          "weight": 10,
+          "quality": 0,
+          "type": "item",
+          "functions": [
+            {
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "xplosives:detonator_remote"
+        }
+      ],
+      "rolls": {
+        "min": 2.0,
+        "max": 8.0
+      }
+    }
+  ]
+}

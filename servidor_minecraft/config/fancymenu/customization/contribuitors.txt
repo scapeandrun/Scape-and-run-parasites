@@ -1,0 +1,265 @@
+type = menu
+
+customization-meta {
+  identifier = Contribuitors
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 0.7
+  scale = 2.0
+  source = Work Partners
+  text_border = 5
+  case_mode = upper
+  fadein = true
+  source_mode = direct
+  line_spacing = 5
+  fadeinspeed = 1.0
+  x = 0
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 3ca2f1e9-7c61-463d-8b04-42adab7df0bf1726079123082
+  y = 90
+  delayappearance = true
+  alignment = centered
+  base_color = #0000ff
+  delayappearanceeverytime = true
+  height = 35
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 0.7
+  scale = 2.0
+  source = Testing Squad
+  text_border = 5
+  case_mode = upper
+  fadein = true
+  source_mode = direct
+  line_spacing = 5
+  fadeinspeed = 1.0
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 5351d722-d5bf-4ebc-aeff-0bd344faca8c1726079479285
+  y = 90
+  delayappearance = true
+  alignment = centered
+  base_color = #0000ff
+  delayappearanceeverytime = true
+  height = 40
+}
+
+customization {
+  orientation = top-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = Morizuki Suzumi%n%Suboptimal%n%Ouros the eternal%n%Wenik%n%gary_%n%Tacodevenado287
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 4
+  fadeinspeed = 1.0
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 6e26d931-27ed-4ed7-afc3-b090bb3c148f1726079565485
+  y = 135
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+  height = 89
+}
+
+customization {
+  orientation = bottom-right
+  restartbackgroundanimations = true
+  buttonaction = closegui%btnaction_splitter_fm%
+  backgroundhovered = fancymenu_assets/sbuttonh.png
+  label = Back
+  loopbackgroundanimations = true
+  x = -78
+  width = 78
+  action = addbutton
+  actionid = 20546a7e-c81f-42f2-b06c-7cff6281f9bd1726080256588
+  y = -29
+  backgroundnormal = fancymenu_assets/sbutton.png
+  height = 29
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.4
+  scale = 1.5
+  source = Thank you for your service, Eradicators!
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -203
+  width = 406
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 17af4345-bae8-48ad-bf4f-b886a5ad05971726082659885
+  y = -45
+  delayappearance = true
+  alignment = centered
+  base_color = #0000ff
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.5
+  scale = 1.2
+  source = You can be featured on this list too by subscribing to my
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = -250
+  width = 427
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 1d474e68-f8a4-4062-bc24-e58bc5463c4b1726082775435
+  y = -20
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.5
+  buttonaction = openlink;https://patreon.com/DarklightsLegacy%btnaction_splitter_fm%
+  backgroundhovered = fancymenu_assets/patreonh.png
+  description = Patreon
+  label = 
+  loopbackgroundanimations = true
+  fadein = true
+  fadeinspeed = 1.0
+  x = 141
+  width = 22
+  action = addbutton
+  actionid = 00dddfda-e0ff-4fd2-b4dd-4ca1690df9c61726082854685
+  y = -23
+  delayappearance = true
+  backgroundnormal = fancymenu_assets/patreonn.png
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = bottom-centered
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.5
+  scale = 1.2
+  source = page!
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 1
+  fadeinspeed = 1.0
+  x = 163
+  width = 44
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d2ce8f55-cdbf-4bfa-94f7-c3567790ea321726082988185
+  y = -20
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+  height = 20
+}
+
+customization {
+  orientation = top-centered
+  delayappearanceseconds = 0.3
+  path = fancymenu_assets/contributors4.png
+  fadein = true
+  fadeinspeed = 1.0
+  x = -240
+  width = 487
+  actionid = f8babc92-0a27-4e85-a996-6ddd32d6d2781726083353240
+  action = addtexture
+  y = 1
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 100
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 1.0
+  scale = 1.0
+  source = 1st_Luckywind%n%notalex1328%n%TechedSnake4464
+  text_border = 0
+  case_mode = normal
+  fadein = true
+  source_mode = direct
+  line_spacing = 4
+  fadeinspeed = 1.0
+  x = 0
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 88120af9-6e19-4d1a-bd8e-13237b468daa1726852070826
+  y = 135
+  delayappearance = true
+  alignment = centered
+  delayappearanceeverytime = true
+  height = 42
+}
+
+customization {
+  orientation = top-right
+  enable_scrolling = true
+  shadow = true
+  delayappearanceseconds = 0.7
+  scale = 2.0
+  source = Patreon Subscribers
+  text_border = 5
+  case_mode = upper
+  fadein = true
+  source_mode = direct
+  line_spacing = 5
+  fadeinspeed = 1.0
+  x = -253
+  width = 253
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = d28fab88-5569-4e66-b703-b1f8b8e632761726852363128
+  y = 90
+  delayappearance = true
+  alignment = centered
+  base_color = #0000ff
+  delayappearanceeverytime = true
+  height = 40
+}
+

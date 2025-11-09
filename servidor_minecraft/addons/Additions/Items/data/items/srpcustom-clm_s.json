@@ -1,0 +1,21 @@
+{
+  "name": "CLM-07 Signal",
+  "tooltip": [
+    "§4Establishes the connection with the CLM-07 Planet.",
+    "Projectile for the Interstellar Network Link.",
+    "Can be found inside the Observatory.",
+    "§4Must be shot on the GROUND to work."
+  ],
+  "gravity": 0.0,
+  "works_in_water": true,
+  "renders_3d": false,
+  "pierces_entities": true,
+  "hit_effects": [
+    {
+      "command": "/gamestage silentadd @p CLM-07",
+      "command_sender_name": "@p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:projectile"
+}

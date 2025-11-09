@@ -1,0 +1,1039 @@
+[PREINITIALIZATION][SERVER][INFO] Thank you to the Patreon supporters below and others who make CraftTweaker possible!
+Quaternary
+Belathus
+Peregrinus11
+Ncc1702
+NickT
+embeddedt
+Ivy_
+Pongo Sapiens
+Jellycraft
+Jordan Pineo
+Hooley
+Jonathan McManus
+Lucas
+Spencer Gilbert
+DreamThorn
+NerdyWhiteGuy
+Zuniroa
+Jessie Sims
+Genryu
+If you want to support the mod, checkout https://patreon.com/jaredlll08?s=crtmod
+
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [preinit]
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: announcements.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: drops.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: events.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: item_blacklist.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: lt.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: parasites.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: properties.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: questfix.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes1.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [preinit | SIDE_SERVER]: Skipping file {[0:crafttweaker]: smeltpest.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 3ms
+[PREINITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker]]
+[PREINITIALIZATION][SERVER][INFO] Loading scripts for loader with names [contenttweaker]
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: announcements.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: drops.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: events.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: item_blacklist.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: lt.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: parasites.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: properties.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: questfix.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: recipes1.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] [contenttweaker | SIDE_SERVER]: Skipping file {[0:crafttweaker]: smeltpest.zs} as we are currently loading with a different loader
+[PREINITIALIZATION][SERVER][INFO] Completed script loading in: 0ms
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Building registry
+[INITIALIZATION][SERVER][INFO] CraftTweaker: Successfully built item registry
+[INITIALIZATION][SERVER][INFO] Current loaders after merging: [[preinit], [contenttweaker], [recipeevent | crafttweaker]]
+[INITIALIZATION][SERVER][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: announcements.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: drops.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: events.zs}
+[INITIALIZATION][SERVER][INFO] Adding srparasites:sim_squid to stage.srp_phase_2
+[INITIALIZATION][SERVER][INFO] Adding srparasites:pri_devourer to stage.srp_phase_4
+[INITIALIZATION][SERVER][INFO] Dimension -1 has been added to stage NetherTravel
+[INITIALIZATION][SERVER][INFO] Dimension 1 has been added to stage EndTravel
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: item_blacklist.zs}
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:wormholemirror
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:potionrecall
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:potionwormhole
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:trinketluckyhorseshoe
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:flaregun
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:flare_red
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:magicmirror
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: bountifulbaubles:magicmirror
+[INITIALIZATION][SERVER][INFO] Added loot removal for Global Item: quark:rune
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: lt.zs}
+[INITIALIZATION][SERVER][INFO] Created new table 'lt:tntTable'
+[INITIALIZATION][SERVER][INFO] Queued pool tntloot for addition to table lt:tnttable
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'tntloot' of table 'lt:tnttable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'tntloot' of table 'lt:tnttable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#3' for addition to pool 'tntloot' of table 'lt:tnttable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#4' for addition to pool 'tntloot' of table 'lt:tnttable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#5' for addition to pool 'tntloot' of table 'lt:tnttable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#6' for addition to pool 'tntloot' of table 'lt:tnttable'
+[INITIALIZATION][SERVER][INFO] Created new table 'lt:ingotTable'
+[INITIALIZATION][SERVER][INFO] Queued pool ingotloot for addition to table lt:ingottable
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#3' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#4' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#5' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#6' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#7' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#8' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#9' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#10' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#11' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#12' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#13' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#14' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#15' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#16' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#17' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#18' for addition to pool 'ingotloot' of table 'lt:ingottable'
+[INITIALIZATION][SERVER][INFO] Created new table 'lt:reinforcementTable'
+[INITIALIZATION][SERVER][INFO] Queued pool reinforcementloot for addition to table lt:reinforcementtable
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#3' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#4' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#5' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#6' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#7' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#8' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#9' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#10' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#11' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#12' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#13' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#14' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#15' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#16' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#17' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#18' for addition to pool 'reinforcementloot' of table 'lt:reinforcementtable'
+[INITIALIZATION][SERVER][INFO] Created new table 'lt:immersiveTable'
+[INITIALIZATION][SERVER][INFO] Queued pool immersiveloot for addition to table lt:immersivetable
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#3' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#4' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#5' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#6' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#7' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#8' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#9' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#10' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#11' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#12' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#13' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#14' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#15' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#16' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#17' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#18' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#19' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#20' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#21' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#22' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#23' for addition to pool 'immersiveloot' of table 'lt:immersivetable'
+[INITIALIZATION][SERVER][INFO] Created new table 'lt:immersiveTableH'
+[INITIALIZATION][SERVER][INFO] Queued pool immersivelooth for addition to table lt:immersivetableh
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#3' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#4' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#5' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#6' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#7' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#8' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#9' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#10' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#11' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#12' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#13' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#14' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#15' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#16' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#17' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#18' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#19' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#20' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#21' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#22' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#23' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#24' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#25' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#26' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#27' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#28' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#29' for addition to pool 'immersivelooth' of table 'lt:immersivetableh'
+[INITIALIZATION][SERVER][INFO] Created new table 'lt:gunTable'
+[INITIALIZATION][SERVER][INFO] Queued pool gunloot for addition to table lt:guntable
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#1' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#2' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#3' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#4' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#5' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#6' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#7' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#8' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#9' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#10' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#11' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#12' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#13' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#14' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#15' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#16' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#17' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] Queued item entry 'loottweaker#18' for addition to pool 'gunloot' of table 'lt:guntable'
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: parasites.zs}
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:1>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:2>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:3>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:4>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:5>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:6>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:7>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:8>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <srparasites:evolutionlure:9>
+[INITIALIZATION][SERVER][INFO] Translating tile.srparasites.evolutionlure_seven.name to Lure (Wicked)
+[INITIALIZATION][SERVER][INFO] Translating tile.srparasites.evolutionlure_eight.name to Lure (Abstract)
+[INITIALIZATION][SERVER][INFO] Translating tile.srparasites.evolutionlure_nine.name to Lure (Ultimate)
+[INITIALIZATION][SERVER][INFO] Translating tile.srparasites.evolutionlure_ten.name to Lure (Absolute)
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure>: "Cooldown add: 60 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:1>: "Cooldown add: 60 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:2>: "Cooldown add: 300 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:3>: "Cooldown add: 600 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:4>: "Cooldown add: 1200 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:5>: "Cooldown add: 5400 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:6>: "Cooldown add: 8200 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:7>: "Cooldown add: 12000 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:8>: "Cooldown add: 15000 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:9>: "Cooldown add: 25000 seconds"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure>: "Carcass: 50 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:1>: "Carcass: 50 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:2>: "Carcass: 250 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:3>: "Carcass: 500 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:4>: "Carcass: 1.000 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:5>: "Carcass: 100.000 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:6>: "Carcass: 1.000.000 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:7>: "Carcass: 10.000.000 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:8>: "Carcass: 100.000.000 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:9>: "Carcass: 600.000.000 points"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:1>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:2>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:3>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:4>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:5>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:6>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:7>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:8>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:9>: "srparasites:evolutionlure"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:1>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:2>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:3>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:4>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:5>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:6>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:7>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:8>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <srparasites:evolutionlure:9>: "Scape and Run Parasites"
+[INITIALIZATION][SERVER][INFO] Translating item.livingarmorhelmet.name to Concentrated Helmet
+[INITIALIZATION][SERVER][INFO] Translating item.livingarmorbody.name to Concentrated Chestplate
+[INITIALIZATION][SERVER][INFO] Translating item.livingarmorlegs.name to Concentrated Leggings
+[INITIALIZATION][SERVER][INFO] Translating item.livingarmorboots.name to Concentrated Boots
+[INITIALIZATION][SERVER][INFO] Translating tile.davincis.marker.name to Ship's Node
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <davincisvessels:marker>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <davincisvessels:marker>: "The ultimate manifestation of the Concentrated Parasitic Substance."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <davincisvessels:marker>: "It assimilates the surrounding blocks."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <davincisvessels:marker>: "Use this item to build a Vessels, Submarines or Aircrafts."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <davincisvessels:marker>: "davincisvessels:marker"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <davincisvessels:marker>: "Davinci's Vessels"
+[INITIALIZATION][SERVER][INFO] Translating item.srparasites.armor_helm.name to Living Helmet
+[INITIALIZATION][SERVER][INFO] Translating item.srparasites.armor_chest.name to Living Chestplate
+[INITIALIZATION][SERVER][INFO] Translating item.srparasites.armor_pants.name to Living Leggings
+[INITIALIZATION][SERVER][INFO] Translating item.srparasites.armor_helm_sentient.name to Sentient Helmet
+[INITIALIZATION][SERVER][INFO] Translating item.srparasites.armor_chest_sentient.name to Sentient Chestplate
+[INITIALIZATION][SERVER][INFO] Translating item.srparasites.armor_pants_sentient.name to Sentient Leggings
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greatlance to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greatmaul to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greatbow to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greatcleaver to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greatsword to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greataxe to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Greatscythe to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Boots to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Leggings to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Chestplate to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Sentient Helmet to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Living Chestplate to 3000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Living Helmet to 3000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Living Leggings to 3000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Living Boots to 3000
+[INITIALIZATION][SERVER][INFO] Removing tooltip for <cgm:machine_pistol> at line 3
+[INITIALIZATION][SERVER][INFO] Removing tooltip for <cgm:machine_pistol> at line 4
+[INITIALIZATION][SERVER][INFO] Removing tooltip for <cgm:machine_pistol> at line 5
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <cgm:machine_pistol>: "Can be found into the Laboratory."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <cgm:machine_pistol>: "cgm:machine_pistol"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <cgm:machine_pistol>: "MrCrayfish's Gun Mod"
+[INITIALIZATION][SERVER][INFO] Translating item.signalumnunchaku.name to Living Nunchaku
+[INITIALIZATION][SERVER][INFO] Translating item.invarnunchaku.name to Sentient Nunchaku
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Outbreak Dagger to 15000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Seismic Warhammer to 20000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Seizer Spear to 10000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Ignis Knife to 10000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Ignis Chakram to 15000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Cytokine Mutator to 15000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Gene De-splicer to 10000
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: properties.zs}
+[INITIALIZATION][SERVER][INFO] Translating tile.BasicBlock.RefinedGlowstone.name to Reinforced Glowstone
+[INITIALIZATION][SERVER][INFO] Translating tile.machine_gun_turret.name to Rifle Turret
+[INITIALIZATION][SERVER][INFO] Translating tile.appliedenergistics2.charger.name to Crystal Charger
+[INITIALIZATION][SERVER][INFO] Translating tile.cgm.workbench.name to Gun Workbench
+[INITIALIZATION][SERVER][INFO] Translating item.spawnercraft.mob_rod.name to Soul Reaper
+[INITIALIZATION][SERVER][INFO] Translating item.betterbuilderswands.wandbasic.name to Stone Builder Wand
+[INITIALIZATION][SERVER][INFO] Translating item.betterbuilderswands.wandadvanced.name to Iron Builder Wand
+[INITIALIZATION][SERVER][INFO] Translating item.betterbuilderswands.wandunrestricted.name to Diamond Builder Wand
+[INITIALIZATION][SERVER][INFO] Translating item.betterbuilderswands.wandunbreakable.name to Unbreakable Builder Wand
+[INITIALIZATION][SERVER][INFO] Translating tile.playerplates.obsidian_plate.name to Obsidian Player Pressure Plate
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_helmet.name to Lolite Helmet
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_boots.name to Lolite Boots
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_chestplate.name to Lolite Chestplate
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_leggings.name to Lolite leggings
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_axe.name to Lolite Axe
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_pickaxe.name to Lolite Pickaxe
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_sword.name to Lolite Sword
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_shovel.name to Lolite Shovel
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst_hoe.name to Lolite Hoe
+[INITIALIZATION][SERVER][INFO] Translating item.amethyst.name to Lolite
+[INITIALIZATION][SERVER][INFO] Translating tile.amethyst_block.name to Lolite Block
+[INITIALIZATION][SERVER][INFO] Translating tile.amethyst_ore.name to Lolite Ore
+[INITIALIZATION][SERVER][INFO] Translating tile.nether_amethyst_ore.name to Nether Lolite Ore
+[INITIALIZATION][SERVER][INFO] Translating tile.end_amethyst_ore.name to End Lolite Ore
+[INITIALIZATION][SERVER][INFO] Setting hardness of Reinforced Torch to 4.0
+[INITIALIZATION][SERVER][INFO] Unable to set hardness of Iron Door because it is an Item
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Trapdoor to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Hospital Door to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Lever to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Pearl Button to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Button to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Button to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Weighted Pressure Plate (Light) to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Weighted Pressure Plate (Heavy) to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Pearl Pressure Plate to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Glass Trapdoor to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Ladder to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Door to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Warning Door to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Windowed Door to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Trapdoor to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Reinforced Glowstone to 11.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Chest to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Furnace to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Furnace to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Slab to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Stairs to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Pressure Plate to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Player Pressure Plate to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Metal Reinforced Door to 55.0
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <spawnercraft:mob_spirit>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <spawnercraft:mob_essence>
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <spawnercraft:mob_cage>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_spirit>: "QUEST ITEM"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_spirit>: "The ultimate concentration of the mob's essence."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_spirit>: "Place the Spirit inside an Empty Spawner to make it work."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_essence>: "The soul of the mob."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_spirit>: "Obtainable by slaying the target using the Soul Reaper."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_spirit>: "spawnercraft:mob_spirit"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_essence>: "spawnercraft:mob_essence"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_spirit>: "SpawnerCraft"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_essence>: "SpawnerCraft"
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <xat:mana_crystal>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <xat:mana_crystal>: "+25% MP"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <xat:mana_crystal>: "xat:mana_crystal"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <xat:mana_crystal>: "Trinkets and Baubles"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_cage>: "Obtainable by breaking a Monster Spawner using a Silk Touch Pickaxe."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_cage>: "spawnercraft:mob_cage"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <spawnercraft:mob_cage>: "SpawnerCraft"
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <bountifulbaubles:brokenblackdragonscale>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bountifulbaubles:brokenblackdragonscale>: "The broken old scale of an Ender Dragon. Has incredible magical properties."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bountifulbaubles:brokenblackdragonscale>: "bountifulbaubles:brokenblackdragonscale"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <bountifulbaubles:brokenblackdragonscale>: "Bountiful Baubles"
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <wings:bat_blood>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <wings:bat_blood>: "Right-Click on a Bat with an Empty Bottle to obtain."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <wings:bat_blood>: "wings:bat_blood"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <wings:bat_blood>: "Wings"
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Lamented Sword to 3000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Soul Reaper to 3000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  item.bountifulbaubles.shieldCobalt.name to 1500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  item.bountifulbaubles.shieldObsidian.name to 3000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  item.bountifulbaubles.shieldAnkh.name to 6000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Enderium Strengthened Shield to 4500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Platinum Plated Shield to 4500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Abyssalnite Plated Shield to 4500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Manasteel Plated Shield to 4500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Radiant Lumium Shield to 4500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Terrasteel Strengthened Shield to 4500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Signalum Strengthened Shield to 4500
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <appliedenergistics2:material:47>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:47>: "Place 25k items into a Matter Condenser to obtain."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:47>: "appliedenergistics2:material"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:47>: "Applied Energistics 2"
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <appliedenergistics2:material:48>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:48>: "Drop 2 Ender Pearl Dusts and a Singularity in one place."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:48>: "Explode the dropped items to obtain."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:48>: "appliedenergistics2:material"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <appliedenergistics2:material:48>: "Applied Energistics 2"
+[INITIALIZATION][SERVER][INFO] Setting hardness of Ashed Door Creator to 10.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Ashed Keyhole to 10.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of End Compulsor to 10.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Ash Trap Block to 10.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of End Dungeon Key Block to 25.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Ashed Key Block to 25.0
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Guilded Shield to 1000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Lamented Sword to 4000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  Lustrian Sword to 1500
+[INITIALIZATION][SERVER][INFO] Setting max damage of  End Fall Staff to 4000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  End Fall Sword to 4000
+[INITIALIZATION][SERVER][INFO] Setting max damage of  End Fall Bow to 4000
+[INITIALIZATION][SERVER][INFO] Clearing tooltip for <mowziesmobs:earth_talisman>
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Infused with Arcane Energy. Place in inventory to wield Geomancy."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Right-Click earthen ground with empty hand to spawn a Boulder."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Punch the Boulder to fire it as Projectile."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Hold Right-Click to spawn bigger Boulders."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Jump and Sneak 2 times, then hold Sneak to Tunnel Underground (does not work in Multiplayer)."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Release Sneak to stop Tunneling."
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "mowziesmobs:earth_talisman"
+[INITIALIZATION][SERVER][INFO] Adding tooltip for <mowziesmobs:earth_talisman>: "Mowzie's Mobs"
+[INITIALIZATION][SERVER][INFO] Setting hardness of Sturdy Parasitic Spike to 1.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Faint Parasitic Spike to 1.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Acacia Planks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Andesite to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Birch Planks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Bricks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Cobblestone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Dark Oak Planks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Diorite to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced End Stone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced End Stone Bricks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Granite to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Jungle Planks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Moss Stone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Nether Brick to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Netherrack to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Oak Planks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Polished Andesite to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Polished Diorite to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Polished Granite to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Purpur to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Purpur Pillar to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Block Of Quartz to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Red Sandstone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Chiseled Red Sandstone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Smooth Red Sandstobe to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Sandstone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Chiseled Sandstone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Smooth Sandstone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Spruce Planks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Stone to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Stone Bricks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Chiseled Stone Bricks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Cracked Stone Bricks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Mossy Stone Bricks to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Black Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Blue Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Brown Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Cyan Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Gray Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Green Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Light Blue Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Light Gray Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Lime Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Magenta Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Orange Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Pink Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Purple Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Red Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced White Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Obsidian Reinforced Yellow Terracotta to 50.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Acacia Planks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Andesite to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Birch Planks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Bricks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Cobblestone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Dark Oak Planks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Diorite to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced End Stone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced End Stone Bricks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Granite to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Jungle Planks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Moss Stone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Nether Brick to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Netherrack to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Oak Planks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Polished Andesite to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Polished Diorite to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Polished Granite to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Purpur to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Purpur Pillar to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Block Of Quartz to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Red Sandstone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Chiseled Red Sandstone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Smooth Red Sandstobe to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Sandstone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Chiseled Sandstone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Smooth Sandstone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Spruce Planks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Stone to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Stone Bricks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Chiseled Stone Bricks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Cracked Stone Bricks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Mossy Stone Bricks to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Black Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Blue Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Brown Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Cyan Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Gray Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Green Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Light Blue Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Light Gray Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Lime Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Magenta Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Orange Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Pink Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Purple Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Red Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced White Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Emerald Reinforced Yellow Terracotta to 9.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Black to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Brown to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Green to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Light Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Light Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Lime to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Magenta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Orange to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Black to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Brown to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Green to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Light Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Light Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Lime to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Magenta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Orange to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Pink to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Purple to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Red to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane White to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pane Yellow to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Pink to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Purple to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Red to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Black to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Brown to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Green to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Light Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Light Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Lime to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Magenta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Orange to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Pink to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Purple to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Red to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab White to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Slab Yellow to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Black to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Blue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Brown to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Gray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Green to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Lightblue to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Lightgray to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Lime to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Magenta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Orange to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Pink to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Purple to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Red to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs White to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Stairs Yellow to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass White to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Glass Yellow to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Acacia Planks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Andesite to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Birch Planks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Bricks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Cobblestone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Dark Oak Planks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Diorite to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced End Stone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced End Stone Bricks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Granite to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Jungle Planks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Moss Stone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Nether Brick to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Netherrack to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Oak Planks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Polished Andesite to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Polished Diorite to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Polished Granite to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Purpur to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Purpur Pillar to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Block Of Quartz to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Red Sandstone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Chiseled Red Sandstone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Smooth Red Sandstobe to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Sandstone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Chiseled Sandstone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Smooth Sandstone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Spruce Planks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Stone to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Stone Bricks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Chiseled Stone Bricks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Cracked Stone Bricks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Mossy Stone Bricks to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Black Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Blue Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Brown Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Cyan Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Gray Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Green Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Light Blue Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Light Gray Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Lime Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Magenta Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Orange Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Pink Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Purple Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Red Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced White Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Diamond Reinforced Yellow Terracotta to 6.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Acacia Planks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Andesite to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Birch Planks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Bricks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Cobblestone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Dark Oak Planks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Diorite to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced End Stone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced End Stone Bricks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Granite to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Jungle Planks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Moss Stone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Nether Brick to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Netherrack to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Oak Planks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Polished Andesite to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Polished Diorite to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Polished Granite to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Purpur to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Purpur Pillar to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Block Of Quartz to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Red Sandstone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Chiseled Red Sandstone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Smooth Red Sandstobe to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Sandstone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Chiseled Sandstone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Smooth Sandstone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Spruce Planks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Stone to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Stone Bricks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Chiseled Stone Bricks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Cracked Stone Bricks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Mossy Stone Bricks to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Black Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Blue Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Brown Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Cyan Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Gray Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Green Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Light Blue Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Light Gray Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Lime Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Magenta Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Orange Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Pink Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Purple Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Red Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced White Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Gold Reinforced Yellow Terracotta to 4.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Acacia Planks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Andesite to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Birch Planks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Bricks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Cobblestone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Dark Oak Planks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Diorite to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced End Stone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced End Stone Bricks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Granite to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Jungle Planks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Moss Stone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Nether Brick to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Netherrack to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Oak Planks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Polished Andesite to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Polished Diorite to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Polished Granite to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Purpur to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Purpur Pillar to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Block Of Quartz to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Red Sandstone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Chiseled Red Sandstone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Smooth Red Sandstobe to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Sandstone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Chiseled Sandstone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Smooth Sandstone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Spruce Planks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Stone to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Stone Bricks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Chiseled Stone Bricks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Cracked Stone Bricks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Mossy Stone Bricks to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Black Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Blue Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Brown Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Cyan Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Gray Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Green Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Light Blue Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Light Gray Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Lime Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Magenta Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Orange Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Pink Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Purple Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Red Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced White Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] Setting hardness of Iron Reinforced Yellow Terracotta to 2.0
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: questfix.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipes.zs}
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: recipes1.zs}
+[INITIALIZATION][SERVER][INFO] Removing ArcFurnace Recipe for Steel Ingot
+[INITIALIZATION][SERVER][INFO] Adding Squeezer Recipe for Fluid Plant Oil and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Fermenter Recipe for Fluid Ethanol and Item null
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Fluix Dust
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Fluix Dust
+[INITIALIZATION][SERVER][INFO] Adding Crusher Recipe for Ender Dust
+[INITIALIZATION][SERVER][INFO] Adding Fluix Crystal to ore dictionary entry fluix
+[INITIALIZATION][SERVER][INFO] Adding Pure Fluix Crystal to ore dictionary entry fluix
+[INITIALIZATION][SERVER][INFO] Adding Inscriber Calculation Press to ore dictionary entry inscriberPress
+[INITIALIZATION][SERVER][INFO] Adding Inscriber Engineering Press to ore dictionary entry inscriberPress
+[INITIALIZATION][SERVER][INFO] Adding Inscriber Logic Press to ore dictionary entry inscriberPress
+[INITIALIZATION][SERVER][INFO] Adding Inscriber Silicon Press to ore dictionary entry inscriberPress
+[INITIALIZATION][SERVER][INFO] [crafttweaker | SIDE_SERVER]: Loading Script: {[0:crafttweaker]: smeltpest.zs}
+[INITIALIZATION][SERVER][INFO] Completed script loading in: 740ms
+[POSTINITIALIZATION][SERVER][INFO] Removing recipes for various outputs
+[POSTINITIALIZATION][SERVER][INFO] Removing Shapeless recipes for <davincisvessels:balloon:*>
+[POSTINITIALIZATION][SERVER][INFO] Removing 16 Shapeless recipes.
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:flamethrower>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:machineblock2:3>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:machineblock:2>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:machineblock:2>
+[POSTINITIALIZATION][SERVER][INFO] 0 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:machineblock:9>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:machineblock:1>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Removing Shaped recipes for <mekanism:machineblock:3>
+[POSTINITIALIZATION][SERVER][INFO] 1 removed
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ship's Node with name Marker
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Mimic Blade with name Mimic Blade
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Living Core with name ct_shaped-268679512
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for White Rune with name ct_shaped-120378351
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Orange Rune with name ct_shaped-674016497
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Magenta Rune with name ct_shaped-2102918391
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Light Blue Rune with name ct_shaped-2007815095
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yellow Rune with name ct_shaped-307029453
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blue Rune with name ct_shaped-1002288100
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Red Rune with name ct_shaped-1005906480
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lime Rune with name ct_shaped-289529433
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Rainbow Rune with name ct_shaped413606623
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Metal Trapdoor with name ct_shapeless1086648219
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Metal Glass Trapdoor with name ct_shaped-1328978247
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Metal Reinforced Door with name ct_shaped1425276851
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Metal Door with name ct_shaped593652673
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Soul In A Bottle with name ct_shapeless-1439827179
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steel Ingot with name ct_shaped210309600
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Devourer Tentacle with name ct_shaped1255197770
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Traveler's Backpack with name ct_shaped-185038268
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Quantum Entangled Singularity with name ct_shapeless-1629999893
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hardened Bone Pole with name ct_shaped1376773728
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Glowstone Ingot with name ct_shapeless-1914702925
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Infectious Long Blade Fragment with name ct_shaped-171070177
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Weakened) with name ct_shaped795822389
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Twisted Fibers with name ct_shapeless1631937867
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Unbreakable Builder Wand with name ct_shaped-971251878
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Builder Wand with name ct_shaped-2024855111
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Builder Wand with name ct_shaped66380915
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Stone Builder Wand with name ct_shaped-500550856
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Obsidian Pressure Plate with name ct_shapeless-623483190
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Obsidian Player Pressure Plate with name ct_shapeless-1389108214
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Packed TNT with name ct_shaped-1602685145
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Hand Cannon with name ct_shaped1921974309
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Detonator with name ct_shaped-976658944
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Detonator Remote with name ct_shaped-1889229194
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Physics Bomb with name ct_shaped-961252608
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Arrow Bomb with name ct_shaped-299139742
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Bonemeal Bomb with name ct_shapeless1489389979
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Dynamite with name ct_shapeless923472906
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Avalon's Bane with name ct_shaped16396416
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lustrian Tipped Arrow with name ct_shaped-567601468
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Traveler's Backpack with name ct_shaped1022818295
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Guidebook - gbook:calamity introduction.xml unknown with name ct_shapeless-1833226660
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Earth Talisman with name ct_shaped-11498569
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ashed Door Creator with name ct_shaped2050857774
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dart with name ct_shaped-1557565496
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Spear with name ct_shaped1890915126
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blowgun with name ct_shaped-1833266279
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Buckler with name ct_shaped1670187924
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Impaler with name ct_shaped1740640608
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Crossbow with name ct_shaped-1983535868
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Interstellar Network Link with name ct_shaped1906274610
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Yelloweye Lantern with name ct_shaped-635365806
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Dragon Wings with name ct_shaped-1736452691
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Evil Wings with name ct_shaped-419367553
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fairy Wings with name ct_shaped-1818877598
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bat Wings with name ct_shaped-1847445661
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fire Wings with name ct_shaped425858910
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Monarch Butterfly Wings with name ct_shaped981920751
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blue Butterfly Wings with name ct_shaped-857110723
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slime Wings with name ct_shaped509154292
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Angel Wings with name ct_shaped536143093
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Firework Rocket with name ct_shapeless-754822836
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Skull of Creation with name ct_shaped1887255101
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Air Balloon with name ct_shaped-309158484
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Congealed Blood Boots with name ct_shaped-568659155
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bread with name ct_shaped1212203174
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slime Boots with name ct_shaped-1419024021
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slime Boots with name ct_shaped2004006926
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slime Boots with name ct_shaped-2063250472
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slime Boots with name ct_shaped1153642060
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slimesling with name ct_shaped-1975132713
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slimesling with name ct_shaped-685263440
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slimesling with name ct_shaped593122007
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Congealed Bloodsling with name ct_shaped-1133590569
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Slimesling with name ct_shaped1434664151
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Absolute) with name ct_shaped1037347117
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Ultimate) with name ct_shaped-362784084
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Abstract) with name ct_shaped-464537032
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Wicked) with name ct_shaped1515773814
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Concentrated) with name ct_shaped-901417259
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Substantial) with name ct_shaped-322876872
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Stable) with name ct_shaped-141594122
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Slender) with name ct_shaped642508472
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lure (Slender) with name ct_shaped-1416633192
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for item.bountifulbaubles.shieldAnkh.name with name ct_shapeless-956713929
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Black Dragon Scale with name ct_shaped-527833783
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Book of Skills with name ct_shaped1569047177
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatwarhammer with name ct_shaped1439503930
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Great-Throwing Knife with name ct_shaped-1000510812
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Great-Longsword with name ct_shaped-856841120
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatmace with name ct_shaped1314012644
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Great-Parrying Dagger with name ct_shaped973824316
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatpike with name ct_shaped-756958268
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatsaber with name ct_shaped-1683017376
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Great-Quarterstaff with name ct_shaped-1145140962
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatrapier with name ct_shaped2115098244
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatspear with name ct_shaped526864912
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Great-Throwing Axe with name ct_shaped-602114364
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Nunchaku with name ct_shaped1160309645
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatclaymore with name ct_shaped-806284500
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatdagger with name ct_shaped-1741373788
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Great-Boomerang with name ct_shaped990072034
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatglaive with name ct_shaped157524964
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greathalberd with name ct_shaped-1387017016
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greathammer with name ct_shaped-141461468
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatjavelin with name ct_shaped-851887308
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatkatana with name ct_shaped656051748
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Advanced Enchantment Table with name ct_shapeless1326911945
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Table Upgrade with name ct_shaped653200179
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Advanced Enchantment Table with name ct_shaped-802534289
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Boots with name ct_shaped1584620290
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Leggings with name ct_shaped-1589883678
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Chestplate with name ct_shaped1317350146
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Helmet with name ct_shaped227840272
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatsword with name ct_shaped-1205424232
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatscythe with name ct_shaped-1801599314
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greataxe with name ct_shaped-606276550
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatmaul with name ct_shaped1105461070
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatcleaver with name ct_shaped331777670
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatbow with name ct_shaped-149353466
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sentient Greatlance with name ct_shaped-2016803930
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Security Desk with name ct_shaped1190498066
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Teleportation Core with name ct_shaped1138421605
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Matter Condenser with name ct_shaped-1538249998
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for ME IO Port with name ct_shaped543182460
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Quartz Grindstone with name ct_shaped1729870182
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for trashcans.block.energy_trash_can with name ct_shaped2137827941
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for trashcans.block.liquid_trash_can with name ct_shaped726147899
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for trashcans.block.item_trash_can with name ct_shaped310738729
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Thirst Quencher with name ct_shaped-1933118994
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charcoal Filter with name ct_shaped1562512369
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Meteorite Compass with name ct_shaped1201899401
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Bio-Generator with name ct_shaped-1342127530
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gas-Burning Generator with name ct_shaped-330551081
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Sensor (Tier 1) with name ct_shaped139916762
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Air Balloon with name ct_shapeless300199307
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Conveyor Belt with name ct_shapeless-2010524862
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Conveyor Belt with name ct_shaped844474030
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Garden Cloche with name ct_shaped1295429450
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Fluid Pipe with name ct_shaped1273998420
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Ammo - Bullet with name ct_shaped-1132273277
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Tesla Coil with name ct_shaped134306874
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Turntable with name ct_shaped222002969
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Blast Brick with name ct_shaped1459792725
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Basic Universal Cable with name ct_shaped-2037231739
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Windmill with name ct_shaped1580540657
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charger Tier III with name ct_shaped540575172
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charger Tier II with name ct_shaped-860984432
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Charger Tier I with name ct_shaped344222835
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heat Generator with name ct_shaped386714920
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Jetpack with name ct_shaped-1328288970
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Engineer's Blueprint with name ct_shaped1163873967
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Engineer's Blueprint with name ct_shaped-2141517529
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Flamethrower with name ct_shaped-525094383
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chemical Injection Chamber with name ct_shaped192003779
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Combiner with name ct_shaped1909818604
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Purification Chamber with name ct_shaped-469376504
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Osmium Compressor with name ct_shaped-416507383
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Crusher with name ct_shaped1896238249
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Teleporter with name ct_shaped-1376289470
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gun Workbench with name Workbench
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Glowstone with name glowstone
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reinforced Torch with name reinforced_torch
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Node Compass with name Node Compass
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Sand with name DiamondGlass
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian Slab with name OSlab
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian Slab with name OSlab2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian Slab with name OSlab3
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Steam Engine with name engine
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Furnace Engine with name furnace_engine
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian Stairs with name OStairs
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Obsidian Stairs with name OStairs2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reforging Station with name Reforging Station
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Reforging Station with name Reforging Station2
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Ingot with name ct_shaped-1835357607
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Glowing Ingot with name ct_shaped-841033078
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Leather Wolf Armor with name ct_shaped-1452841657
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Chain Wolf Armor with name ct_shaped859313111
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Diamond Wolf Armor with name ct_shaped677148669
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Gold Wolf Armor with name ct_shaped-1224621277
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Iron Wolf Armor with name ct_shaped-260297901
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lolite with name ct_shapeless610245015
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Helmet with name ct_shaped-1963576961
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Helmet with name ct_shaped-1205668737
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Boots with name ct_shaped-25317048
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Boots with name ct_shaped-1675021496
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite leggings with name ct_shaped36544992
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Chestplate with name ct_shaped-1085241196
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Axe with name ct_shaped2044505200
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Axe with name ct_shaped944012878
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Hoe with name ct_shaped-6559617
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Hoe with name ct_shaped1076223231
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Shovel with name ct_shaped-100612705
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Shovel with name ct_shaped1232851615
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Shovel with name ct_shaped1636081567
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Sword with name ct_shaped521497918
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Sword with name ct_shaped668355688
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Sword with name ct_shaped-1915727086
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Pickaxe with name ct_shaped-1222448337
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Lolite Block with name ct_shaped-396957033
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Heart Amulet with name ct_shaped1790526772
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Armored Jetpack with name ct_shaped409236060
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn-Upgrade with name ct_shaped661705122
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Acacia Planks with name ct_shaped1580406332
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Andesite with name ct_shaped354917025
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Polished Andesite with name ct_shaped1534276348
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Diorite with name ct_shaped-76779666
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Polished Diorite with name ct_shaped-1871237378
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Birch Planks with name ct_shaped-14120921
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Spruce Planks with name ct_shaped528650798
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Jungle Planks with name ct_shaped1259049731
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Oak Planks with name ct_shaped1741700959
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Dark Oak Planks with name ct_shaped-1070695939
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Bricks with name ct_shaped732206127
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Cobblestone with name ct_shaped1478289553
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced End Stone with name ct_shaped1500809751
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced End Stone Bricks with name ct_shaped1639140586
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Granite with name ct_shaped-951980945
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Polished Granite with name ct_shaped-1739298593
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Moss Stone with name ct_shaped2045728472
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Nether Brick with name ct_shaped-1512215880
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Netherrack with name ct_shaped-436280358
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Stone Bricks with name ct_shaped1702956549
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Stone Bricks with name ct_shaped1702956550
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Manyullyn Reinforced Orange Terracotta with name ct_shaped-1812261362
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Manyullyn Reinforced Stone with name ct_shapeless97695355
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Torch with name ct_shaped-1652914683
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Torch with name ct_shaped1921452516
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Metallurgic Infuser with name ct_shaped-732240561
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Enrichment Chamber with name ct_shaped167052604
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Engineer's Hammer with name ct_shaped-99133870
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Inscriber with name ct_shaped-388367616
+[POSTINITIALIZATION][SERVER][INFO] Adding shaped recipe for Purificator with name Purificator
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Diamond with name d
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Emerald with name e
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Iron Ingot with name i
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Gold Ingot with name g
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Redstone with name r
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Coal with name c
+[POSTINITIALIZATION][SERVER][INFO] Adding shapeless recipe for Lapis Lazuli with name l
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <mekanism:ingot:4>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <mekanism:ingot:4>
+[POSTINITIALIZATION][SERVER][INFO] Removing furnace recipes for: <diamondglass:diamond_glass>
+[POSTINITIALIZATION][SERVER][INFO] 1 recipes removed for: <diamondglass:diamond_glass>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <mekanism:otherdust:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <diamondglass:diamond_sand>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore:1>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore:2>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore:3>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore:4>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore:5>
+[POSTINITIALIZATION][SERVER][INFO] Adding furnace recipe for <srparasites:infestedore:6>
+[POSTINITIALIZATION][SERVER][INFO] Removing 1 Mekanism Crusher Recipe(s) for <minecraft:gunpowder>
+[POSTINITIALIZATION][SERVER][INFO] Adding 1 Mekanism Crusher Recipe(s) for <appliedenergistics2:material:46>
+[AVAILABLE][SERVER][INFO] Adding brewing recipe for <additions:srpcustom-purification_antidote>, Registry size now: 32
+[AVAILABLE][SERVER][INFO] Fixing Vanilla Brewing Recipes
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <minecraft:potion>, ingredient: <minecraft:quartz>
+[AVAILABLE][SERVER][INFO] Removing Brewing Recipes for input: <bountifulbaubles:potionrecall>, ingredient: <minecraft:ender_pearl>
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool immersivelooth to table lt:immersivetableh
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool reinforcementloot to table lt:reinforcementtable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool tntloot to table lt:tnttable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool ingotloot to table lt:ingottable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool immersiveloot to table lt:immersivetable
+[SERVER_ABOUT_TO_START][SERVER][INFO] Added new pool gunloot to table lt:guntable
+[SERVER_STARTING][SERVER][INFO] Found listener for LootTableLoadEvent at lowest priority: ASM: net.darkhax.lttweaker.LTTMod@3ec2ab84 onTablesLoad(Lnet/minecraftforge/event/LootTableLoadEvent;)V
+[SERVER_STARTING][SERVER][INFO] Loot Table Tweaker listens to LootTableLoadEvent at lowest priority. Any loot added by Loot Table Tweaker cannot be edited by LootTweaker.

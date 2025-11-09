@@ -1,0 +1,174 @@
+~ Saved With Hammer Lib 12.2.56
+
++C:$={
+  +I:cfgversion=1
+
+}
+
+
+# Configure how expensive each skill is
++C:Costs={
+  +C:improvableskills/accelerated_furnace={
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/alchemist={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (2) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/atkdmg_melee={
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/atkdmg_ranged={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (3) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^3
+
+  }
+
+  +C:improvableskills/attack_speed={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (1) for current skill. (Default: "%lvl%^1.5")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/cutting={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (1) for current skill. (Default: "%lvl%^1.5")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/digging={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (1) for current skill. (Default: "%lvl%^1.5")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/enchanter={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (2) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/ender_manipulator={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (3) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^4
+
+  }
+
+  +C:improvableskills/generic_protection={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (1) for current skill. (Default: "%lvl%^2.75")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/growth={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (3) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/health={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (3) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/ladder_king={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (2) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^2
+
+  }
+
+  +C:improvableskills/leaper={
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/luck_of_the_sea={
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/mining={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (1) for current skill. (Default: "sqrt(%lvl%^3)*3")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/obsidian_skin={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (2) for current skill. (Default: "(%lvl%+1)^%xpv%")
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/pvp={
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/soft_landing={
+    +S:formula=(%lvl%+1)^2.5
+
+  }
+
+  +C:improvableskills/treasure_sands={
+    # Cost calculator for this skill.
+    # Available variables:
+    # - %lvl% = the level we want to calculate XP value for.
+    # - %xpv% preset value (1) for current skill. (Default: "(%lvl%+1)^7+200")
+    +S:formula=(%lvl%+1)^6+200
+
+  }
+
+  +C:improvableskills/xp+={
+    +S:formula=%lvl%^3+(%lvl%+1)*100
+
+  }
+
+}
+
+

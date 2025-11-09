@@ -1,0 +1,157 @@
+{
+  "version": 2,
+  "inventoryGeneratorID": "BountyHouse Side Loot Table",
+  "items": [
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:rotten_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:web",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:stick",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 99.99998474121094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "srparasites:assimilated_flesh",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 52.28874969482422,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:saddle",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 52.28874969482422,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:diamond_horse_armor",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 52.28874969482422,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "wolfarmor:diamond_wolf_armor",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "minecraft:golden_carrot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 1,
+      "item": {
+        "id": "betteranimalsplus:venisonraw",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:wheat",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "mysticalworld:aubergine",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:carrot",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "minecraft:potato",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "mysticalworld:silk_cocoon",
+        "damage": 0,
+        "count": 1
+      }
+    },
+    {
+      "weight": 70.48338317871094,
+      "min": 1,
+      "max": 8,
+      "item": {
+        "id": "immersiveengineering:material",
+        "damage": 4,
+        "count": 1
+      }
+    }
+  ],
+  "dependencyExpression": ""
+}

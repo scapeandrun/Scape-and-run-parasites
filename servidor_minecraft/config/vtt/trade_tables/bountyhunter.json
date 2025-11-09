@@ -1,0 +1,353 @@
+{
+    "Profession": "vtt:bountyhunter",
+    "Career": "bountyhunter",
+    "Offers": {
+        "Recipes": [
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:lurecomponent1",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 1,
+                        "max": 2
+                    }
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:assimilated_flesh",
+                    "Count": {
+                        "min": 1,
+                        "max": 2
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": 1
+                },
+                "CareerLevel": 1
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:lurecomponent2",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 3,
+                        "max": 5
+                    }
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:beckon_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 5,
+                        "max": 7
+                    }
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:dispatcher_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 5,
+                        "max": 7
+                    }
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:bone",
+                    "Count": {
+                        "min": 1,
+                        "max": 2
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 5,
+                        "max": 7
+                    }
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "additions:srpcustom-infested_eye",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 5,
+                        "max": 7
+                    }
+                },
+                "CareerLevel": 2
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:lurecomponent3",
+                    "Count": {
+                        "min": 1,
+                        "max": 2
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 7,
+                        "max": 10
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_reeker_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_arachnida_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_bolster_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_longarms_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 12
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_summoner_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_manducater_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_yelloweye_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 3
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:ada_devourer_drop",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 10,
+                        "max": 15
+                    }
+                },
+                "CareerLevel": 4
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:lurecomponent4",
+                    "Count": {
+                        "min": 1,
+                        "max": 3
+                    }
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 15,
+                        "max": 20
+                    }
+                },
+                "CareerLevel": 4
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:lurecomponent5",
+                    "Count": 1
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": {
+                        "min": 20,
+                        "max": 25
+                    }
+                },
+                "CareerLevel": 4
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "srparasites:lurecomponent6",
+                    "Count": 1
+                },
+                "sell": {
+                    "id": "minecraft:experience_bottle",
+                    "Count": 64
+                },
+                "CareerLevel": 4
+            },
+            {
+                "action": "add",
+                "buy": {
+                    "id": "minecraft:emerald",
+                    "Count": {
+                        "min": 20,
+                        "max": 32
+                    }
+                },
+                "sell": {
+                    "id": "additions:srpcustom-purification_antidote",
+                    "Count": 1
+                },
+                "CareerLevel": 4
+            }
+        ]
+    }
+}

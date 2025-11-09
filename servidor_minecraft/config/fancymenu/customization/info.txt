@@ -1,0 +1,28 @@
+type = menu
+
+customization-meta {
+  identifier = Info
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  advanced_height = 500
+  path = fancymenu_assets/info_panel.png
+  orientation = mid-centered
+  x = -265
+  width = 50
+  actionid = adcb82fd-b30e-441e-9815-344990b97eb11727025341741
+  action = addtexture
+  y = -246
+  advanced_width = 500
+  height = 50
+}
+

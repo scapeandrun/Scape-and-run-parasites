@@ -1,0 +1,9 @@
+{
+  "name": "§eSpatial Transmitter",
+  "tooltip": [
+    "§fMade using Worm Acid and Alien Technology. It possesses the capability to transmit information over long distances by manipulating space.",
+    "§eCore part of the Interstellar Network Link.",
+    "§eFound inside a Flesh Worm of Stage III."
+  ],
+  "type": "additions:simple"
+}

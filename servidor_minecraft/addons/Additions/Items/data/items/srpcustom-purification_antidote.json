@@ -1,0 +1,29 @@
+{
+  "name": "COTH Antidote",
+  "tooltip": "§6Can cure mobs (forever) and players (for 20 minutes).",
+  "hunger": 0,
+  "saturation": 0.0,
+  "always_edible": true,
+  "is_drink": true,
+  "eaten_effects": [
+    {
+      "command": "/effect @p srparasites:coth 0",
+      "type": "additions:command"
+    },
+    {
+      "potion": {
+        "name": "srparasites:repel",
+        "duration": 720000,
+        "amplifier": 1,
+        "ambient": true,
+        "show_particles": true
+      },
+      "type": "additions:potion"
+    },
+    {
+      "command": "/playsound additions:srpcustom-cure_infested voice @p",
+      "type": "additions:command"
+    }
+  ],
+  "type": "additions:food"
+}
